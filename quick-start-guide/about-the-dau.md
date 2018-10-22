@@ -26,7 +26,7 @@ The DAU \(Data Acquisition Unit\) is a small, energy efficient and rugged commun
 
 ## **Overview**
 
-![FX30 DAU](../.gitbook/assets/image.png)
+![FX30 DAU](../.gitbook/assets/image%20%281%29.png)
 
 1. Slot for SIM card
 2. GNSS antenna connection

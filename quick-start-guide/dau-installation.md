@@ -22,7 +22,7 @@ To remove the SIM card, press to release the card and gently pull it out.
 
  
 
-![Remove cover and insert SIM](../.gitbook/assets/image%20%284%29.png)
+![Remove cover and insert SIM](../.gitbook/assets/image%20%282%29.png)
 
 ## Connect antennas
 
@@ -39,7 +39,7 @@ The antenna supplied in the DAU kit has both cellular and GNSS functions.
 Mount the GNSS antenna where it has a good view of the sky.
 {% endhint %}
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 ## Fusing
 
@@ -63,7 +63,7 @@ Connect the red and yellow wires to ➕ and the black wire to ➖of the power su
 
 ## Power Connector
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 <table>
   <thead>
