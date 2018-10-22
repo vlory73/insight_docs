@@ -5,7 +5,7 @@
 Computers with Windows operating system requires a driver to be able to connect to the DAU. The driver must be installed before connecting the PC to the DAU Micro USB port. 
 
 {% hint style="info" %}
-The DAU driver can be downloaded from [www.deif.com](https://www.deif.com/software/fx30_driver_package).
+The FX30 driver is available for download at [www.deif.com](https://www.deif.com/software/fx30_driver_package).
 {% endhint %}
 
 ## macOS
