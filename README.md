@@ -1,2 +1,2 @@
-# docs
-Insight documentation
+# Welcome
+
