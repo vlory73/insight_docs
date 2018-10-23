@@ -36,7 +36,7 @@ The antenna supplied in the DAU kit has both cellular and GNSS functions.
 {% endhint %}
 
 {% hint style="warning" %}
-Mount the GNSS antenna where it has a good view of the sky.
+For optimal results, mount the GNSS antenna in a place with good sky exposure.
 {% endhint %}
 
 ![](../.gitbook/assets/image%20%283%29.png)

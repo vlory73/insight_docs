@@ -1,3 +1,7 @@
+---
+description: This page explains how to create your first dashboard for your unit.
+---
+
 # Create your first dashboard
 
 When landing on an empty dashboard, a pop-up is shown to allow immediate editing.
@@ -6,6 +10,8 @@ When landing on an empty dashboard, a pop-up is shown to allow immediate editing
 
 Alternatively, press the More \(...\) button on the top right corner and select "Edit dashboard".
 
+![More \(...\) button options](../.gitbook/assets/dash_equip_edit.png)
+
 ## Editing the dashboard
 
 ![Dashboard editor](../.gitbook/assets/dash_edit1.png)
@@ -13,12 +19,14 @@ Alternatively, press the More \(...\) button on the top right corner and select 
 ## Adding content
 
 Adding content to the dashboard is very easy.   
-Simply press the "Add new card" button and choose from a variety of cards and card packs.
+Simply press the "Add new card" button and choose from a variety of Cards and Card Packs.
 
 ### Add a Card
 
+![There is a great variety of cards to choose from.](../.gitbook/assets/dash_add_card.png)
+
 Each card has its own requirements in terms of configuration.  
-Home and Group dashboards may introduce additional parameters 
+Please note that Home and Group dashboards may introduce additional parameters to each card.
 
 For more information please check:
 
@@ -27,12 +35,20 @@ For more information please check:
 ### Add a Card Pack
 
 Adding cards to a dashboard is fun, but we made it easy to add multiple cards in one simple action.  
-You can 
+Card packs are sets of pre-configured cards which can be added to a dashboard to provide instant value.
+
+![Choosing a Card Pack](../.gitbook/assets/dash_edit_card_packs.png)
+
+{% hint style="info" %}
+Each dashboard type has its own Card Packs.
+{% endhint %}
 
 ## Saving your work
 
-{% hint style="success" %}
 
+
+{% hint style="success" %}
+Your dashboard will display the latest data received from the device.
 {% endhint %}
 
 ## See also
@@ -40,6 +56,4 @@ You can
 {% page-ref page="../knowledge-base/dashboards/" %}
 
 {% page-ref page="../articles/1.2.0.0/card-packs.md" %}
-
-
 
