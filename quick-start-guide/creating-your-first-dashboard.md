@@ -12,15 +12,22 @@ Alternatively, press the More \(...\) button on the top right corner and select 
 
 ## Adding content
 
-Adding content to the dashboard is very easy. Simply press the "Add new card" button
+Adding content to the dashboard is very easy.   
+Simply press the "Add new card" button and choose from a variety of cards and card packs.
 
 ### Add a Card
 
-Pr
+Each card has its own requirements in terms of configuration.  
+Home and Group dashboards may introduce additional parameters 
+
+For more information please check:
+
+{% page-ref page="../knowledge-base/dashboards/cards.md" %}
 
 ### Add a Card Pack
 
-Adding cards to make a dashboard may be fun, but we made a simple task of adding multiple cards in one simple action.
+Adding cards to a dashboard is fun, but we made it easy to add multiple cards in one simple action.  
+You can 
 
 ## Saving your work
 
@@ -33,4 +40,6 @@ Adding cards to make a dashboard may be fun, but we made a simple task of adding
 {% page-ref page="../knowledge-base/dashboards/" %}
 
 {% page-ref page="../articles/1.2.0.0/card-packs.md" %}
+
+
 
