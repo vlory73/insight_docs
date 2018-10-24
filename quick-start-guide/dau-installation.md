@@ -43,7 +43,7 @@ For optimal results, mount the GNSS antenna in a place with good sky exposure.
 
 ## Fusing
 
-The supplied DAU power cable has a 3 A fuse installed in it.   
+The supplied DAU power cable has a 3A fuse installed in it.   
 If that cable is used, no additional fusing is required.
 
 {% hint style="info" %}

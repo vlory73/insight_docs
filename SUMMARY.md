@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Getting Started](getting-started.md)
 * [What's New \(Release Notes\)](whats-new-release-notes.md)
+* [Legal and Copyright](legal-and-copyright.md)
 
 ## Quick Start Guide
 
@@ -16,6 +16,7 @@
 
 ## Knowledge Base
 
+* [Getting Started](knowledge-base/getting-started.md)
 * [Devices](knowledge-base/devices.md)
 * [Equipment](knowledge-base/equipment.md)
 * [Dashboards](knowledge-base/dashboards/README.md)
@@ -36,9 +37,11 @@
   * [Power Modes](dau-user-guide/untitled/power-modes.md)
   * [Accessories](dau-user-guide/untitled/accessories.md)
 * [Installation and Startup](dau-user-guide/installation-and-startup.md)
+* [Spare Parts and Accessories](dau-user-guide/spare-parts-and-accessories.md)
 
 ## Articles
 
+* [Our Articles](articles/our-articles.md)
 * [1.3.0.0](articles/1.3.0.0/README.md)
   * [Equipment Management](articles/1.3.0.0/equipment-management.md)
 * [1.2.0.0](articles/1.2.0.0/README.md)
