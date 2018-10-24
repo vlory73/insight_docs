@@ -45,8 +45,9 @@
 * [1.3.0.0](articles/1.3.0.0/README.md)
   * [Equipment Management](articles/1.3.0.0/equipment-management.md)
 * [1.2.0.0](articles/1.2.0.0/README.md)
-  * [Multi-state Indicator Card](articles/1.2.0.0/multi-state-indicator-card.md)
+  * [Entity Name Changes](articles/1.2.0.0/entity-name-changes.md)
   * [Independent Dashboards](articles/1.2.0.0/independent-dashboards.md)
+  * [Multi-state Indicator Card](articles/1.2.0.0/multi-state-indicator-card.md)
   * [Card Packs](articles/1.2.0.0/card-packs.md)
 * [1.1.0.0](articles/1.1.0.0/README.md)
   * [Navigation menu](articles/1.1.0.0/untitled.md)
@@ -57,6 +58,7 @@
   * [Save / Load Unit configuration](articles/1.0.1.0/untitled.md)
 * [1.0.0.0](articles/1.0.0.0/README.md)
   * [Event-based logging](articles/1.0.0.0/event-based-logging.md)
+  * [Dashboards](articles/1.0.0.0/dashboards.md)
   * [Modbus support](articles/1.0.0.0/modbus-support.md)
   * [Insight launch](articles/1.0.0.0/insight-launch.md)
 
