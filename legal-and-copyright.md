@@ -10,6 +10,8 @@ Sierra Wireless
 
 Legato is a registered trademark of ...
 
+Google and Chrome are registered trademarks of Alphabet
+
 ## Copyright
 
 All rights reserved.  

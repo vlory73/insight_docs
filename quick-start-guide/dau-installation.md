@@ -1,6 +1,6 @@
 # DAU installation
 
-## Additional tools and materials
+## Required tools and materials
 
 The following tools and materials are necessary to finish the installation and setup.
 

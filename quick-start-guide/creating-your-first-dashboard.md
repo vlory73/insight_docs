@@ -30,7 +30,7 @@ Please note that Home and Group dashboards may introduce additional parameters t
 
 For more information please check:
 
-{% page-ref page="../knowledge-base/dashboards/cards.md" %}
+{% page-ref page="../knowledge-base/cards.md" %}
 
 ### Add a Card Pack
 

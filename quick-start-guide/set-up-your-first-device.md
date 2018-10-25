@@ -1,10 +1,17 @@
+---
+description: >-
+  This page will help you setting up the DAU and prepare it to read data from a
+  Modbus TCP device.
+---
+
 # Setup your first device
 
 ## Connect DAU to PC
 
-lorem ipsum ...
-
-Open your browser and navigate to address `http://192.168.2.2`.
+1. Turn on the DAU.
+2. Connect the micro-USB cable to the DAU and the computer.
+3. Wait a few seconds until the network connection is established.
+4. Open your browser and navigate to address `http://192.168.2.2`.
 
 ![After connection is established, the result should look similar to this.](../.gitbook/assets/image%20%281%29.png)
 
@@ -17,7 +24,7 @@ lorem ipsum dolor...
 When using the Ethernet variant of the DAU, it will be necessary to configure the network settings.  
 This is necessary so that the DAU is in the same network as the device that will be monitored on Insight.
 
-
+![](../.gitbook/assets/dau_config_ethernet.png)
 
 {% hint style="success" %}
 Switch the DAU OFF and ON again to restart with the new network settings.
@@ -43,5 +50,9 @@ Click on tab "SIM Configuration" and enter the APN settings.
 
 ![](../.gitbook/assets/dau_config_provider.png)
 
+## Set up the Equipment
 
+Log into the portal at `https://insight.deif.com`.
+
+Click on Settings from the navigation menu to expand its submenu.
 
