@@ -28,7 +28,7 @@ The DAU provides connectivity through online and global data cloud, and requires
 
 ## **Overview**
 
-![FX30 DAU](../.gitbook/assets/image%20%281%29.png)
+![FX30 DAU](../.gitbook/assets/image%20%284%29.png)
 
 1. Slot for SIM card
 2. GNSS antenna connection

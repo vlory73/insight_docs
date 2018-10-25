@@ -10,7 +10,7 @@
 * [About the DAU](quick-start-guide/about-the-dau.md)
 * [DAU installation](quick-start-guide/dau-installation.md)
 * [PC requirements](quick-start-guide/windows-pc-preparation.md)
-* [Setup your first device](quick-start-guide/setting-up-your-first-device.md)
+* [Setup your first device](quick-start-guide/set-up-your-first-device.md)
 * [Create your first dashboard](quick-start-guide/creating-your-first-dashboard.md)
 * [Add Insight to Home Screen](quick-start-guide/add-insight-to-home-screen.md)
 
