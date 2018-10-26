@@ -16,6 +16,8 @@ Follow **Settings =&gt; Equipment Management** from the navigation menu and then
 
 ### Enter Equipment details
 
+![Creating a new Equipment](../../.gitbook/assets/equip_add1%20%281%29.png)
+
 Fill all required fields as a minimum.
 
 <table>
@@ -100,10 +102,6 @@ Fill all required fields as a minimum.
 
 ² Selecting users and teams is not very relevant at this stage.
 
-![Creating a new Equipment](../../.gitbook/assets/equip_add1.png)
-
-
-
 ### Define Product Family and Tags
 
 The first step is to define the Product Family, for which there are two choices available. See below table.
@@ -139,7 +137,7 @@ For information on how to set up a tag, please follow the link below.
 
 {% page-ref page="../../knowledge-base/modbus-tags.md" %}
 
-## Saving your Equipment configuration
+### Saving your Equipment configuration
 
 Once the tag configuration is finished, the configuration may be saved and ended.
 
@@ -148,7 +146,7 @@ Once the tag configuration is finished, the configuration may be saved and ended
 There is an optional step to Save and configure Notifications - **Save&Next** button.  
 The configuration of Notifications is not part of the scope of this Quick Start Guide.
 
-
+{% page-ref page="../../knowledge-base/notifications.md" %}
 
 ## Set up the DAU
 

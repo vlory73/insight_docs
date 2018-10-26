@@ -24,9 +24,3 @@ All you need to know about DAU.
 
 Keep up to date with the newest features of Insight.
 
-
-
-#### 
-
-
-
