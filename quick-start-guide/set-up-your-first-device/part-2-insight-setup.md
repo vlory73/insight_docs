@@ -1,3 +1,9 @@
+---
+description: >-
+  This page focus on the setup of the DAU and controller devices on the Insight
+  portal.
+---
+
 # Part 2: Insight setup
 
 ## Set up the Equipment

@@ -17,9 +17,9 @@ description: >-
 
 ## Configure the DAU
 
-lorem ipsum dolor...
+Configuring the DAU is a straightforward and easy task, requiring only to define network settings \(on Modbus TCP\) and operator's APN configuration. 
 
-### Configure network settings
+### Configure network settings \(Modbus TCP only\)
 
 When using the Ethernet variant of the DAU, it will be necessary to configure the network settings.  
 This is necessary so that the DAU is in the same network as the device that will be monitored on Insight.
