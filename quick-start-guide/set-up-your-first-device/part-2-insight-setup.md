@@ -10,17 +10,61 @@ description: >-
 
 Log into the portal at `https://insight.deif.com`.
 
-Follow `Settings => Equipment Management` from the navigation menu and then press the Add Equipment button.
+Follow **Settings =&gt; Equipment Management** from the navigation menu and then press the **Add Equipment** button.
 
-![](../../.gitbook/assets/equipment_add1.png)
+![Equipment Management page](../../.gitbook/assets/equipment_add1.png)
 
-![](../../.gitbook/assets/equip_add1.png)
+### Enter Equipment details
 
-![](../../.gitbook/assets/equip_tags.png)
+![Creating a new Equipment](../../.gitbook/assets/equip_add1.png)
 
-![](../../.gitbook/assets/equip_tags2.png)
+### Define Product Family and Tags
 
-## Register the DAU
+The first step is to define the Product Family, for which there are two choices available. See below table.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Product Family</th>
+      <th style="text-align:left">Usage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Multi-line 2 (Default)</td>
+      <td style="text-align:left">
+        <p>Set of predefined tags for the DEIF ML2 platform.</p>
+        <p>No extra effort is required.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">None</td>
+      <td style="text-align:left">
+        <p>Set of predefined tag names for any Modbus platform.</p>
+        <p>Selecting None will clear all configured tags.</p>
+        <p>Non-configured tags will not be acquired from the device.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>![View of the default \(Multi-line 2\) Product Family. ](../../.gitbook/assets/equip_tags.png)
+
+Setting up tags is not in the scope of this Quick Start Guide.  
+For information on how to set up a tag, please follow the link below.
+
+{% page-ref page="../../knowledge-base/modbus-tags.md" %}
+
+## Saving your Equipment configuration
+
+Once the tag configuration is finished, the configuration may be saved and ended.
+
+![Save the Device configuration](../../.gitbook/assets/equip_tags2.png)
+
+ There is an optional step to Save and configure Notifications \(Save&Next\).   
+The configuration on  is not part of the scope of this Quick Start Guide.
+
+## Set up the DAU
+
+### Register DAU details
 
 ![](../../.gitbook/assets/dau_add1.png)
 
