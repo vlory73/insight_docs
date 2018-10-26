@@ -43,6 +43,8 @@ Card packs are sets of pre-configured cards which can be added to a dashboard to
 Each dashboard type has its own Card Packs.
 {% endhint %}
 
+### Move the card
+
 ## Saving your work
 
 

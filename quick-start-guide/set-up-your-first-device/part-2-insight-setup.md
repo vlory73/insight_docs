@@ -148,19 +148,55 @@ The configuration of Notifications is not part of the scope of this Quick Start 
 
 {% page-ref page="../../knowledge-base/notifications.md" %}
 
+{% hint style="success" %}
+The Equipment is now configured.  
+Before data is received, the Equipment must be linked to a DAU.
+{% endhint %}
+
 ## Set up the DAU
 
-To conclude the process, you will how need to register the DAU and link the Equipment that was created.
+To conclude the process, you will need to register the DAU and link the Equipment that was created above.
 
-### Register DAU details
+### Add a DAU
+
+Start by adding a DAU by navigating to **Settings =&gt; DAU Management** and pressing the **Add DAU** button.
 
 ![](../../.gitbook/assets/dau_add1.png)
 
-![](../../.gitbook/assets/dau_add2.png)
+### Register DAU details
+
+Give the DAU a recognisable name.   
+You can give it the same name as the Equipment or a variation of it, for example.
+
+Introduce the **IMEI** and **Serial Number** of the DAU.  
+These can be found in the DAU Configuration page, the DAU box and the label on the device.
 
 {% hint style="info" %}
 Quick Tip: If you kept DAU Configuration page open in your browser you can simply copy and paste the **IMEI** and **Serial Number** from one page to the other.
 {% endhint %}
 
+![The DAU has just a few settings.](../../.gitbook/assets/dau_add2.png)
+
+{% hint style="warning" %}
+Both the IMEI and Serial Number must be introduced correctly, or the DAU will not work correctly.
+
+Please note that only the IMEI has a validation of the input provided.
+{% endhint %}
+
+### Geo-location options
+
+When enabling the geo-location, a time interval for location reporting must be set.  
+The interval is set in minutes by means of a dropdown.  
+An interval of zero \(0\) defines that the location is only sent one time just after power-up of the DAU.
+
+### Link the DAU to the Equipment
+
+Press the **Next** button to move to the **Equipment Connection** tab.  
+Finally, select a single Equipment from the list and press **Save**.
+
 ![Link the Equipment to the DAU](../../.gitbook/assets/dau_equip_connect.png)
+
+{% hint style="success" %}
+The Equipment is now linked to the DAU and data will soon be received on Insight.
+{% endhint %}
 
