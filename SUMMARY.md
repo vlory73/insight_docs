@@ -10,7 +10,9 @@
 * [About the DAU](quick-start-guide/about-the-dau.md)
 * [DAU installation](quick-start-guide/dau-installation.md)
 * [PC requirements](quick-start-guide/windows-pc-preparation.md)
-* [Setup your first device](quick-start-guide/set-up-your-first-device.md)
+* [Set up your first device](quick-start-guide/set-up-your-first-device/README.md)
+  * [Part 1: DAU setup](quick-start-guide/set-up-your-first-device/set-up-dau.md)
+  * [Part 2: Insight setup](quick-start-guide/set-up-your-first-device/part-2-insight-setup.md)
 * [Create your first dashboard](quick-start-guide/creating-your-first-dashboard.md)
 * [Add Insight to Home Screen](quick-start-guide/add-insight-to-home-screen.md)
 
@@ -18,7 +20,7 @@
 
 * [Getting Started](knowledge-base/getting-started.md)
 * [Devices](knowledge-base/devices.md)
-* [Modbus Tags](knowledge-base/configuring-a-tag.md)
+* [Modbus Tags](knowledge-base/modbus-tags.md)
 * [Equipment](knowledge-base/equipment.md)
 * [Dashboards](knowledge-base/dashboards/README.md)
   * [Types of Dashboard](knowledge-base/dashboards/types-of-dashboard.md)

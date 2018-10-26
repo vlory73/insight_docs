@@ -1,10 +1,10 @@
 # Legal and Copyright
 
-## Legal
+## Trademarks
 
-macOS is a registered trademark of Apple
+Mac and macOS are trademarks of Apple Inc., registered in the U.S. and other countries.
 
-Windows is a registered trademark of Microsoft
+Azure, Excel, Skype and Windows are trademarks of Microsoft, registered in the U.S. and other countries.
 
 Sierra Wireless
 
@@ -14,10 +14,9 @@ Google and Chrome are registered trademarks of Alphabet
 
 ## Copyright
 
-All rights reserved.  
-© 2018 DEIF A/S
+© Copyright DEIF A/S 2018. All rights reserved.
 
-This documentation may not be reproduced, in its entirety or portion, without the previous written consent of DEIF A/S.
+
 
 For more information, please contact:
 
