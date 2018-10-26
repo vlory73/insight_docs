@@ -26,8 +26,9 @@ This is necessary so that the DAU is in the same network as the device that will
 
 ![](../../.gitbook/assets/dau_config_ethernet.png)
 
-{% hint style="success" %}
-Switch the DAU OFF and ON again to restart with the new network settings.
+{% hint style="info" %}
+Save your changes.  
+You will be prompted to switch OFF the DAU and turn it ON again to restart with the new network settings.
 {% endhint %}
 
 ### Configure APN settings
@@ -50,5 +51,18 @@ Click on tab "SIM Configuration" and enter the APN settings.
 
 ![](../../.gitbook/assets/dau_config_provider.png)
 
+{% hint style="danger" %}
 Don't forget to Save before leaving the page.
+{% endhint %}
+
+## End Part 1
+
+{% hint style="success" %}
+The DAU should now be configured.   
+Proceed to [Part 2: Insight setup](part-2-insight-setup.md).
+{% endhint %}
+
+{% hint style="info" %}
+Hint: Keep the DAU Configuration page open in your browser during the next part.
+{% endhint %}
 
