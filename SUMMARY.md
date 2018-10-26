@@ -11,7 +11,7 @@
 * [DAU installation](quick-start-guide/dau-installation.md)
 * [PC requirements](quick-start-guide/windows-pc-preparation.md)
 * [Set up your first device](quick-start-guide/set-up-your-first-device/README.md)
-  * [Part 1: DAU setup](quick-start-guide/set-up-your-first-device/set-up-dau.md)
+  * [Part 1: DAU setup](quick-start-guide/set-up-your-first-device/dau-setup.md)
   * [Part 2: Insight setup](quick-start-guide/set-up-your-first-device/part-2-insight-setup.md)
 * [Create your first dashboard](quick-start-guide/creating-your-first-dashboard.md)
 * [Add Insight to Home Screen](quick-start-guide/add-insight-to-home-screen.md)

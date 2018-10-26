@@ -50,5 +50,5 @@ Click on tab "SIM Configuration" and enter the APN settings.
 
 ![](../../.gitbook/assets/dau_config_provider.png)
 
-
+Don't forget to Save before leaving the page.
 
