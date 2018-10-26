@@ -4,7 +4,7 @@ Thank you for joining Insight, DEIF's premier remote monitoring solution.
 
 We have created this documentation so that you can take the most out of your Insight Experience.
 
-{% embed url="https://youtu.be/2jay\_GUZAxI" %}
+![](.gitbook/assets/insight_logo-1.gif)
 
 ## Document index
 
