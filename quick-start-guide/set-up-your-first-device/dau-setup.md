@@ -63,6 +63,6 @@ Proceed to [Part 2: Insight setup](part-2-insight-setup.md).
 {% endhint %}
 
 {% hint style="info" %}
-Hint: Keep the DAU Configuration page open in your browser during the next part.
+Hint: Keep the DAU Configuration page open in your browser will be handy during the next part.
 {% endhint %}
 

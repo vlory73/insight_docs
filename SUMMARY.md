@@ -32,6 +32,7 @@
 * [Analytics](knowledge-base/analytics.md)
 * [Settings](knowledge-base/settings.md)
 * [FAQ](knowledge-base/faq.md)
+* [Notifications](knowledge-base/notifications.md)
 
 ## DAU User Guide
 

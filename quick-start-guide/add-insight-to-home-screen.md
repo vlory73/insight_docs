@@ -1,6 +1,17 @@
+---
+description: >-
+  Instructions on how to add Insight to the home screen of the most popular
+  mobile operating systems.
+---
+
 # Add Insight to Home Screen
 
-Adding Insight to the Home screen of your mobile device is a great way to enhance your experience. You will benefit from a quick access to your favourite Remote Monitoring tool and at the same time experience it on a full page with no navigation bars or buttons, making it look and feel like a native application.
+Insight is designed to take into account the multiple devices that we have at our disposal on a daily basis.   
+Thus, Insight works great on phones, tablets and computers.
+
+In order to greatly improve the experience on mobile devices \(phones and tablets\) and give Insight a near-native application look and feel,  we recommend adding it to the Home Screen of your mobile device.
+
+You will benefit from a quick access to your favourite Remote Monitoring tool and at the same time experience it on a full page with no navigation bars or browser buttons.
 
 ![Insight webapp](../.gitbook/assets/image%20%282%29.png)
 
