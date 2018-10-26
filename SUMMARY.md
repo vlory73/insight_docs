@@ -18,8 +18,7 @@
 
 * [Getting Started](knowledge-base/getting-started.md)
 * [Devices](knowledge-base/devices.md)
-* [Modbus Tags](knowledge-base/modbus-tags/README.md)
-  * [Configuring a Tag](knowledge-base/modbus-tags/configuring-a-tag.md)
+* [Modbus Tags](knowledge-base/configuring-a-tag.md)
 * [Equipment](knowledge-base/equipment.md)
 * [Dashboards](knowledge-base/dashboards/README.md)
   * [Types of Dashboard](knowledge-base/dashboards/types-of-dashboard.md)
