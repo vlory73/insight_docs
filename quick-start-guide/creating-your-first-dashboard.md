@@ -55,7 +55,7 @@ To finish and apply the changes, press the **Save** button.
 Alternatively, you can **Cancel** which will revert back to the last saved dashboard configuration.
 
 {% hint style="success" %}
-Your dashboard will display the latest data received from the device.
+Your dashboard will soon display the data received from the device.
 {% endhint %}
 
 ![Dashboard created with the &quot;Rental Generator - Overview&quot; Card pack](../.gitbook/assets/dash_finish.png)

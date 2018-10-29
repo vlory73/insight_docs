@@ -26,6 +26,7 @@
   * [Types of Dashboard](knowledge-base/dashboards/types-of-dashboard.md)
   * [Select a Dashboard](knowledge-base/dashboards/select-a-dashboard.md)
   * [Edit a Dashboard](knowledge-base/dashboards/edit-a-dashboard.md)
+  * [Copy a Dashboard](knowledge-base/dashboards/copy-a-dashboard.md)
 * [Cards](knowledge-base/cards.md)
 * [Users](knowledge-base/users.md)
 * [Map](knowledge-base/map.md)
