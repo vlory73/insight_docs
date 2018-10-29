@@ -10,7 +10,7 @@ The FX30 driver is available for download at [www.deif.com](https://www.deif.com
 
 ## macOS
 
-Apple computers running macOS do not require any installation of drivers.
+Mac computers running macOS do not require any installation of drivers.
 
 ## Linux
 

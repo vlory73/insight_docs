@@ -12,11 +12,7 @@ Alternatively, press the More \(...\) button on the top right corner and select 
 
 ![More \(...\) button options](../.gitbook/assets/dash_equip_edit.png)
 
-## Editing the dashboard
-
-![Dashboard editor](../.gitbook/assets/dash_edit1.png)
-
-## Adding content
+## Adding content to the dashboard
 
 Adding content to the dashboard is very easy.   
 Simply press the "Add new card" button and choose from a variety of Cards and Card Packs.
@@ -27,6 +23,10 @@ Simply press the "Add new card" button and choose from a variety of Cards and Ca
 
 Each card has its own requirements in terms of configuration.  
 Please note that Home and Group dashboards may introduce additional parameters to each card.
+
+The **Add now** option creates a card with a default configuration.  
+The **Edit first** option will open the card configuration page.   
+Please note that some cards always require some configuration.
 
 For more information please check:
 
@@ -43,15 +43,22 @@ Card packs are sets of pre-configured cards which can be added to a dashboard to
 Each dashboard type has its own Card Packs.
 {% endhint %}
 
-### Move the card
+### Move things around
 
-## Saving your work
+In dashboard editor mode, the cards may be dragged and dropped freely around the dashboard.
 
+![Dragging a Value card ](../.gitbook/assets/dash_edit_drag.png)
 
+## Finishing your work
+
+To finish and apply the changes, press the **Save** button.   
+Alternatively, you can **Cancel** which will revert back to the last saved dashboard configuration.
 
 {% hint style="success" %}
 Your dashboard will display the latest data received from the device.
 {% endhint %}
+
+![Dashboard created with the &quot;Rental Generator - Overview&quot; Card pack](../.gitbook/assets/dash_finish.png)
 
 ## See also
 

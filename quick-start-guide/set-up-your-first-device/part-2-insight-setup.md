@@ -89,12 +89,14 @@ Fill all required fields as a minimum.
     </tr>
     <tr>
       <td style="text-align:left">Users</td>
-      <td style="text-align:left">Multi-selection dropdown. See Note 2 below.</td>
+      <td style="text-align:left">Multi-selection dropdown.
+        <br />See Note 2 below.</td>
       <td style="text-align:left">No</td>
     </tr>
     <tr>
       <td style="text-align:left">Teams</td>
-      <td style="text-align:left">Multi-selection dropdown. See Note 2 below.</td>
+      <td style="text-align:left">Multi-selection dropdown.
+        <br />See Note 2 below.</td>
       <td style="text-align:left">No</td>
     </tr>
   </tbody>
@@ -117,7 +119,7 @@ The first step is to define the Product Family, for which there are two choices 
     <tr>
       <td style="text-align:left">Multi-line 2 (Default)</td>
       <td style="text-align:left">
-        <p>Set of predefined tags for the DEIF ML2 platform.</p>
+        <p>Set of predefined tag configuration for the DEIF ML2 platform.</p>
         <p>No extra effort is required.</p>
       </td>
     </tr>
@@ -126,7 +128,7 @@ The first step is to define the Product Family, for which there are two choices 
       <td style="text-align:left">
         <p>Set of predefined tag names for any Modbus platform.</p>
         <p>Selecting None will clear all configured tags.</p>
-        <p>Non-configured tags will not be acquired from the device.</p>
+        <p>Data for non-configured tags will not be received from the device.</p>
       </td>
     </tr>
   </tbody>
