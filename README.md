@@ -18,7 +18,7 @@ Deep-dive into the many features of Insight.
 
 ### [DAU User Guide](dau-user-guide/untitled/)
 
-All you need to know about DAU.
+All you need to know about the DAU.
 
 ### [Articles](articles/our-articles.md)
 
