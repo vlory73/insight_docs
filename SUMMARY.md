@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [What's New \(Release Notes\)](whats-new-release-notes.md)
 * [Legal and Copyright](legal-and-copyright.md)
 
 ## Quick Start Guide
@@ -47,26 +46,26 @@
 * [Installation and Startup](dau-user-guide/installation-and-startup.md)
 * [Spare Parts and Accessories](dau-user-guide/spare-parts-and-accessories.md)
 
-## Articles
+## Release Notes
 
-* [Our Articles](articles/our-articles.md)
-* [Release 1.3.0.0](articles/release-1.3.0.0/README.md)
-  * [Equipment Management](articles/release-1.3.0.0/equipment-management.md)
-* [Release 1.2.0.0](articles/release-1.2.0.0/README.md)
-  * [Entity Name Changes](articles/release-1.2.0.0/entity-name-changes.md)
-  * [Independent Dashboards](articles/release-1.2.0.0/independent-dashboards.md)
-  * [Multi-state Indicator Card](articles/release-1.2.0.0/multi-state-indicator-card.md)
-  * [Card Packs](articles/release-1.2.0.0/card-packs.md)
-* [Release 1.1.0.0](articles/release-1.1.0.0/README.md)
-  * [Navigation menu](articles/release-1.1.0.0/untitled.md)
-* [Release 1.0.2.0](articles/release-1.0.2.0/README.md)
-  * [User experience](articles/release-1.0.2.0/untitled.md)
-  * [Data export](articles/release-1.0.2.0/data-export.md)
-* [Release 1.0.1.0](articles/release-1.0.1.0/README.md)
-  * [Save / Load Unit configuration](articles/release-1.0.1.0/untitled.md)
-* [Release 1.0.0.0](articles/release-1.0.0.0/README.md)
-  * [Event-based logging](articles/release-1.0.0.0/event-based-logging.md)
-  * [Dashboards](articles/release-1.0.0.0/dashboards.md)
-  * [Modbus support](articles/release-1.0.0.0/modbus-support.md)
-  * [Insight launch](articles/release-1.0.0.0/insight-launch.md)
+* [What's New?](release-notes/whats-new-release-notes.md)
+* [1.3.0.0](release-notes/1.3.0.0/README.md)
+  * [Equipment Management](release-notes/1.3.0.0/equipment-management.md)
+* [1.2.0.0](release-notes/release-1.2.0.0/README.md)
+  * [Entity Name Changes](release-notes/release-1.2.0.0/entity-name-changes.md)
+  * [Independent Dashboards](release-notes/release-1.2.0.0/independent-dashboards.md)
+  * [Multi-state Indicator Card](release-notes/release-1.2.0.0/multi-state-indicator-card.md)
+  * [Card Packs](release-notes/release-1.2.0.0/card-packs.md)
+* [1.1.0.0](release-notes/1.1.0.0/README.md)
+  * [Navigation menu](release-notes/1.1.0.0/untitled.md)
+* [1.0.2.0](release-notes/1.0.2.0/README.md)
+  * [User experience](release-notes/1.0.2.0/untitled.md)
+  * [Data export](release-notes/1.0.2.0/data-export.md)
+* [1.0.1.0](release-notes/1.0.1.0/README.md)
+  * [Save / Load Unit configuration](release-notes/1.0.1.0/untitled.md)
+* [1.0.0.0](release-notes/1.0.0.0/README.md)
+  * [Event-based logging](release-notes/1.0.0.0/event-based-logging.md)
+  * [Dashboards](release-notes/1.0.0.0/dashboards.md)
+  * [Modbus support](release-notes/1.0.0.0/modbus-support.md)
+  * [Insight launch](release-notes/1.0.0.0/insight-launch.md)
 

@@ -1,6 +1,12 @@
-# What's New \(Release Notes\)
+---
+description: >-
+  This section is regularly updated with articles about the most relevant user
+  stories from a release and how to quickly harness their power.
+---
 
-## [1.2.0.0](articles/release-1.2.0.0/)
+# What's New?
+
+## [1.2.0.0](release-1.2.0.0/)
 
 * Template-free dashboard concept
 * Dashboard tabs
@@ -10,7 +16,7 @@
 * Scaling and calculation of tag values
 * Several features focusing on ease of use 
 
-## [1.1.0.0](articles/release-1.1.0.0/)
+## [1.1.0.0](1.1.0.0/)
 
 * New Navigation menu branding
 * Table view on notification email
@@ -18,7 +24,7 @@
 * Chart widgets with zoom
 * Improvements on customer experience, performance and stability
 
-## [1.0.2.0](articles/release-1.0.2.0/)
+## [1.0.2.0](1.0.2.0/)
 
 * Mobile webapp experience
 * New Map page with search and filter
@@ -26,14 +32,14 @@
 * Improved Data Exports experience
 * New predefined Report for Rental 
 
-## [1.0.1.0](articles/release-1.0.1.0/)
+## [1.0.1.0](1.0.1.0/)
 
 * Multi-account users
 * Scheduled data exports
 * Unit configuration download/upload
 * List of units on dashboard
 
-## [1.0.0.0](articles/release-1.0.0.0/)
+## [1.0.0.0](1.0.0.0/)
 
 * Cloud-based web application
 * Unit monitoring dashboards
