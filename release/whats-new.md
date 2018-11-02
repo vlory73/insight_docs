@@ -6,7 +6,7 @@ description: >-
 
 # What's New?
 
-## 1.2.1.0
+## [1.2.1.0](1.2.1.0/)
 
 * Log in to mobile and desktop simultaneously.
 
