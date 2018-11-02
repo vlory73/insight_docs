@@ -6,7 +6,7 @@ description: >-
 
 # What's New?
 
-## [1.2.0.0](release-1.2.0.0/)
+## [1.2.0.0](1.2.0.0/)
 
 * Template-free dashboard concept
 * Dashboard tabs
