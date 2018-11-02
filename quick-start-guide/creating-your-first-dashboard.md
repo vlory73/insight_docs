@@ -64,5 +64,5 @@ Your dashboard will soon display the data received from the device.
 
 {% page-ref page="../knowledge-base/dashboards/" %}
 
-{% page-ref page="../release-notes/release-1.2.0.0/card-packs.md" %}
+{% page-ref page="../release/release-1.2.0.0/card-packs.md" %}
 
