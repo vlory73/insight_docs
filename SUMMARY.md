@@ -51,6 +51,8 @@
 * [What's New?](release/whats-new.md)
 * [1.3.0.0](release/1.3.0.0/README.md)
   * [Equipment Management](release/1.3.0.0/equipment-management.md)
+* [1.2.1.0](release/1.2.1.0/README.md)
+  * [Login changes](release/1.2.1.0/login-changes.md)
 * [1.2.0.0](release/1.2.0.0/README.md)
   * [Entity Name Changes](release/1.2.0.0/entity-name-changes.md)
   * [Independent Dashboards](release/1.2.0.0/independent-dashboards.md)
