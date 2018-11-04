@@ -2,15 +2,13 @@
 
 ## Trademarks
 
-Mac and macOS are trademarks of Apple Inc., registered in the U.S. and other countries.
+_Mac, macOS, iOS_ are trademarks of Apple Inc., registered in the U.S. and other countries.
 
-Azure, Excel, Skype and Windows are trademarks of Microsoft, registered in the U.S. and other countries.
+_Azure_, _Excel_, _Skype_ and _Windows_ are trademarks of Microsoft, registered in the U.S. and other countries.
 
-Sierra Wireless
+_Legato_ is a _trademark_ of Sierra Wireless, Inc.
 
-Legato is a registered trademark of ...
-
-Google and Chrome are registered trademarks of Alphabet
+_Android, Chrome are_ trademarks of Google Inc. Use of this trademark is subject to Google Permissions.
 
 ## Copyright
 
