@@ -1,4 +1,0 @@
-# Multi-state Indicator Card
-
-
-

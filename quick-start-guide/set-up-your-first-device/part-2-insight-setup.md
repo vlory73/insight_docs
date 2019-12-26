@@ -38,7 +38,7 @@ Fill all required fields as a minimum.
     <tr>
       <td style="text-align:left">Equipment Type</td>
       <td style="text-align:left">Locked field.
-        <br />Fixed as "Diesel genset".</td>
+        <br />Fixed as &quot;Diesel genset&quot;.</td>
       <td style="text-align:left">No</td>
     </tr>
     <tr>

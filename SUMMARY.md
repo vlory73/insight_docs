@@ -46,28 +46,3 @@
 * [Installation and Startup](dau-user-guide/installation-and-startup.md)
 * [Spare Parts and Accessories](dau-user-guide/spare-parts-and-accessories.md)
 
-## Release Notes
-
-* [What's New?](release/whats-new.md)
-* [1.3.0.0](release/1.3.0.0/README.md)
-  * [Equipment Management](release/1.3.0.0/equipment-management.md)
-* [1.2.1.0](release/1.2.1.0/README.md)
-  * [Login changes](release/1.2.1.0/login-changes.md)
-* [1.2.0.0](release/1.2.0.0/README.md)
-  * [Entity Name Changes](release/1.2.0.0/entity-name-changes.md)
-  * [Independent Dashboards](release/1.2.0.0/independent-dashboards.md)
-  * [Multi-state Indicator Card](release/1.2.0.0/multi-state-indicator-card.md)
-  * [Card Packs](release/1.2.0.0/card-packs.md)
-* [1.1.0.0](release/1.1.0.0/README.md)
-  * [Navigation menu](release/1.1.0.0/untitled.md)
-* [1.0.2.0](release/1.0.2.0/README.md)
-  * [User experience](release/1.0.2.0/untitled.md)
-  * [Data export](release/1.0.2.0/data-export.md)
-* [1.0.1.0](release/1.0.1.0/README.md)
-  * [Save / Load Unit configuration](release/1.0.1.0/untitled.md)
-* [1.0.0.0](release/1.0.0.0/README.md)
-  * [Event-based logging](release/1.0.0.0/event-based-logging.md)
-  * [Dashboards](release/1.0.0.0/dashboards.md)
-  * [Modbus support](release/1.0.0.0/modbus-support.md)
-  * [Insight launch](release/1.0.0.0/insight-launch.md)
-
