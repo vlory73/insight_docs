@@ -20,7 +20,3 @@ Deep-dive into the many features of Insight.
 
 All you need to know about the DAU.
 
-### [Release Notes]() <a id="release-notes"></a>
-
-Keep up to date with the newest features of Insight.
-
