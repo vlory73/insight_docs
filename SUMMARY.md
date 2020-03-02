@@ -28,7 +28,7 @@
   * [Edit a Dashboard](knowledge-base/dashboards/edit-a-dashboard.md)
   * [Copy a Dashboard](knowledge-base/dashboards/copy-a-dashboard.md)
 * [Map](knowledge-base/map.md)
-* [Cards](knowledge-base/cards.md)
+* [Widgets](knowledge-base/cards.md)
 * [Card Packs](knowledge-base/card-packs.md)
 * [Users](knowledge-base/users.md)
 * [Teams](knowledge-base/teams.md)
