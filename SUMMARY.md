@@ -29,7 +29,7 @@
   * [Copy a Dashboard](knowledge-base/dashboards/copy-a-dashboard.md)
 * [Map](knowledge-base/map.md)
 * [Widgets](knowledge-base/cards.md)
-* [Card Packs](knowledge-base/card-packs.md)
+* [Widget Packs](knowledge-base/card-packs.md)
 * [Users](knowledge-base/users.md)
 * [Teams](knowledge-base/teams.md)
 * [Notifications](knowledge-base/notifications.md)
