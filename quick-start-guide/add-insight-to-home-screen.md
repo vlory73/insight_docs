@@ -19,10 +19,12 @@ Follow the instructions below to add the Insight web application to the Home Pag
 
 Check out the instructions below on your preferred smart device OS
 
+![QR link to Insight](../.gitbook/assets/frame.png)
+
 ## **Android OS**
 
 1. Open Chrome or Firefox on your Android OS device
-2. Go to https://insight.deif.com
+2. Go to [https://insight.deif.com](https://insight.deif.com) or scan the QR code at the top of the page.
 3. Press the Menu button on the top-right corner of the screen
 4. Select “Add to Home Screen”
 5. Now, you'll have a shiny new icon on the Home Screen of your Android device.
@@ -32,7 +34,7 @@ Check out the instructions below on your preferred smart device OS
 ## **iOS**  <a id="ios"></a>
 
 1. Open Safari on your iOS device
-2. Go to https://insight.deif.com
+2. Go to [https://insight.deif.com](https://insight.deif.com) or scan the QR code at the top of the page.
 3. Press the Share button at the bottom of the screen
 4. Find and select the "Add to Home Screen" function
 5. You can edit the name of the icon and/or press the "Add" button on the top-right corner of the screen
