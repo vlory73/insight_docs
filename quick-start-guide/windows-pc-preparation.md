@@ -2,7 +2,7 @@
 
 ## Windows
 
-Computers with Windows operating system require a driver to be able to connect to the DAU. The driver must be installed before connecting the PC to the DAU Micro USB port. 
+Computers with Windows operating system require a driver to be able to connect to the FX30. The driver must be installed before connecting the PC to the FX30's Micro USB port. 
 
 {% hint style="info" %}
 The FX30 driver is available for download at [www.deif.com](https://www.deif.com/software/fx30_driver_package).

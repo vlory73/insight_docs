@@ -1,6 +1,6 @@
 # About the FX30
 
-Insight's 3G data acquisition unit is a small, energy efficient and rugged communication device, based on the acclaimed FX30 from Sierra Wireless. Our application software allows the accurate monitoring of equipment in the field whilst keeping the costs of data transmission to a minimum.
+Insight's 3G data acquisition unit is a small, energy efficient and rugged communication device, based on the acclaimed FX30 from Sierra Wireless. DEIF's application software allows the accurate monitoring of equipment in the field whilst keeping the costs of data transmission to a minimum.
 
 The FX30 provides connectivity through online and global data cloud, and requires neither IT expertise nor programming knowledge.
 
@@ -28,7 +28,7 @@ The FX30 provides connectivity through online and global data cloud, and require
 
 ## **Overview**
 
-![FX30 DAU](../.gitbook/assets/image%20%284%29.png)
+![FX30 Data acquisition unit](../.gitbook/assets/image%20%284%29.png)
 
 1. Slot for SIM card
 2. GNSS antenna connection

@@ -32,7 +32,7 @@ Connect the antennas to the SMA connectors:
 * GNSS antenna for geo-location.
 
 {% hint style="info" %}
-The antenna supplied in the DAU kit has both cellular and GNSS functions.
+The antenna supplied with the FX30 kits has both cellular and GNSS functions.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -43,7 +43,7 @@ For optimal results, mount the GNSS antenna in a place with good sky exposure.
 
 ## Fusing
 
-The supplied DAU power cable has a 3A fuse installed in it.   
+The supplied power cable has a 3A fuse installed in it.   
 If that cable is used, no additional fusing is required.
 
 {% hint style="info" %}
@@ -52,8 +52,8 @@ Fuse specification: Slow-blow 3A 250V  \(5 x 20\)
 
 ## Connect the power
 
-Connect the DAU to power using the supplied power cable.  
-The DAU supports an operating voltage from 4.75 to 32 V.  
+Connect the FX30 to power using the supplied power cable.  
+The FX30 supports an operating voltage from 4.75 to 32 V.  
 The power connector has 6 pins and its functions are described in the table below.
 
 {% hint style="success" %}
