@@ -16,7 +16,3 @@ Get up and running with Insight in the easiest way possible.
 
 Deep-dive into the many features of Insight.
 
-### [DAU User Guide](dau-user-guide/untitled/)
-
-All you need to know about the DAU.
-

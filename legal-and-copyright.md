@@ -12,7 +12,7 @@ _Android, Chrome are_ trademarks of Google Inc. Use of this trademark is subject
 
 ## Copyright
 
-© Copyright DEIF A/S 2018. All rights reserved.
+© Copyright DEIF A/S 2018-2021. All rights reserved.
 
 
 

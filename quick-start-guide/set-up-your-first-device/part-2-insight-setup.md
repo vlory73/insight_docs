@@ -100,7 +100,9 @@ Fill all required fields as a minimum.
       <td style="text-align:left">No</td>
     </tr>
   </tbody>
-</table>¹ If you require to set a Modbus ID \(for example: when using Modbus TCP to Serial converter\), choose `Modbus RTU to TCP Converter` from the **Connection Type** dropdown. When **Connection Type** is set to `TCP/IP`, the Modbus ID is set to 3.
+</table>
+
+¹ If you require to set a Modbus ID \(for example: when using Modbus TCP to Serial converter\), choose `Modbus RTU to TCP Converter` from the **Connection Type** dropdown. When **Connection Type** is set to `TCP/IP`, the Modbus ID is set to 3.
 
 ² Selecting users and teams is not very relevant at this stage.
 
@@ -132,7 +134,9 @@ The first step is to define the Product Family, for which there are two choices 
       </td>
     </tr>
   </tbody>
-</table>![View of the default \(Multi-line 2\) Product Family. ](../../.gitbook/assets/equip_tags.png)
+</table>
+
+![View of the default \(Multi-line 2\) Product Family. ](../../.gitbook/assets/equip_tags.png)
 
 Setting up tags is not in the scope of this Quick Start Guide.  
 For information on how to set up a tag, please follow the link below.

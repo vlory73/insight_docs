@@ -6,8 +6,8 @@
 ## Quick Start Guide
 
 * [About Insight](quick-start-guide/about-insight.md)
-* [About the DAU](quick-start-guide/about-the-dau.md)
-* [DAU installation](quick-start-guide/dau-installation.md)
+* [About the FX30](quick-start-guide/about-the-dau.md)
+* [FX30 installation](quick-start-guide/fx30-installation.md)
 * [PC requirements](quick-start-guide/windows-pc-preparation.md)
 * [Set up your first device](quick-start-guide/set-up-your-first-device/README.md)
   * [Part 1: DAU setup](quick-start-guide/set-up-your-first-device/dau-setup.md)
@@ -36,13 +36,4 @@
 * [Analytics](knowledge-base/analytics.md)
 * [Settings](knowledge-base/settings.md)
 * [FAQ](knowledge-base/faq.md)
-
-## DAU User Guide
-
-* [Introduction to the DAU](dau-user-guide/untitled/README.md)
-  * [Key Features](dau-user-guide/untitled/key-features.md)
-  * [Power Modes](dau-user-guide/untitled/power-modes.md)
-  * [Accessories](dau-user-guide/untitled/accessories.md)
-* [Installation and Startup](dau-user-guide/installation-and-startup.md)
-* [Spare Parts and Accessories](dau-user-guide/spare-parts-and-accessories.md)
 
