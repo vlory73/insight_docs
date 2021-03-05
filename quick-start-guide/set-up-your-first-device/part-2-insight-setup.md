@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page focus on the setup of the DAU and controller devices on the Insight
+  This page focus on the setup of the FX30 and controller devices on the Insight
   portal.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ## Set up the Equipment
 
-Log into the portal at `https://insight.deif.com`.
+Log into the portal at [`https://insight.deif.com`](https://insight.deif.com).
 
 Follow **Settings =&gt; Equipment Management** from the navigation menu and then press the **Add Equipment** button.
 
