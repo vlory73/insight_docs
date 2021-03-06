@@ -2,9 +2,9 @@
 
 ## 
 
-## 
+Upon pressing again on the button to **Add new device**, we will now select the 
 
-Upon pressing again on the button to Add new device, we are given different option by means of tabs.
+
 
 
 
