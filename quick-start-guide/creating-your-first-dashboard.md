@@ -33,11 +33,11 @@ The **Add now** option creates a widget with its default configuration.
 The **Edit first** option will open the widget configuration page.   
 Please note that most widgets will require some configuration.
 
+**Add now** a Value widget to the dashboard
+
 For more information please check:
 
 {% page-ref page="../knowledge-base/widgets.md" %}
-
-**Add now** a Value widget to the dashboard
 
 ### Move things around
 
