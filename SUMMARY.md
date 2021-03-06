@@ -25,7 +25,6 @@
 * [Devices](knowledge-base/devices.md)
 * [Equipment](knowledge-base/equipment.md)
 * [Groups](knowledge-base/groups.md)
-* [Modbus Tags](knowledge-base/modbus-tags.md)
 * [Dashboards](knowledge-base/dashboards/README.md)
   * [Types of Dashboard](knowledge-base/dashboards/types-of-dashboard.md)
   * [Select a Dashboard](knowledge-base/dashboards/select-a-dashboard.md)
@@ -40,6 +39,7 @@
 * [Analytics](knowledge-base/analytics.md)
 * [Settings](knowledge-base/settings/README.md)
   * [Equipment settings](knowledge-base/settings/equipment-settings.md)
-  * [Untitled](knowledge-base/settings/untitled.md)
+  * [Device settings](knowledge-base/settings/untitled/README.md)
+    * [Modbus tags](knowledge-base/settings/untitled/modbus-tags.md)
 * [FAQ](knowledge-base/faq.md)
 

@@ -26,7 +26,17 @@ We can now change its settings by clicking on the pencil \(edit\) button.
 
 Let's name it and proceed down.  
 We now can see a bit more of the content of the new device.  
-The next step is to give it the correct network setting
+The next step is to give it the correct network setting.
 
 ![](../../../.gitbook/assets/image%20%2833%29.png)
+
+As we have seen in FX30 Setup, we need to set the controller and the FX30 in the same network area.  
+We will set up the controller with IP: **192.168.20.210**. The remaining settings do not need changes but may be be adjusted as desired.
+
+{% hint style="info" %}
+The AGC-4 template offers a selection of values and notifications suitable for the basic needs.   
+Additional tags and notifications can be added within the gateway's limits.
+{% endhint %}
+
+Press **Save** to continue.
 
