@@ -52,6 +52,6 @@ For more information on their meaning and use, follow the link below.
 ## Adding devices
 
 Use the **Add new device** button to add a device to this equipment.   
-We will be now adding 2 devices,  the AGC-4 MkII and the FX30 gateway.   
+We will be adding 2 devices,  the AGC-4 MkII and the FX30 gateway.   
 After this, we will set the Equipment's location settings.
 

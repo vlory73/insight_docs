@@ -23,6 +23,7 @@
 
 * [Introduction](knowledge-base/introduction.md)
 * [Devices](knowledge-base/devices.md)
+* [Device Templates](knowledge-base/device-templates.md)
 * [Modbus tags](knowledge-base/modbus-tags.md)
 * [Notifications](knowledge-base/notifications.md)
 * [Equipment](knowledge-base/equipment.md)
