@@ -1,8 +1,14 @@
 ---
-description: This page explains how to create your first dashboard for your unit.
+description: This page explains how to create a dashboard for your first unit.
 ---
 
 # Create your first dashboard
+
+Click on **Equipment** on the main menu.
+
+![The green status indicates that data is being received from both devices.](../.gitbook/assets/image%20%2830%29.png)
+
+
 
 When landing on an empty dashboard, a pop-up is shown to allow immediate editing.
 
