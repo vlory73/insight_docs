@@ -3,7 +3,7 @@
 Since we have chosen the FX30 to send its location, we will configure the equipment to be using it.  
 Choose **GNSS LOCATION** and activate the small switch under it.
 
-![](../../../.gitbook/assets/image%20%2836%29.png)
+![](../../../.gitbook/assets/image%20%2838%29.png)
 
 Finish by Saving and Sending the Configuration to the gateway.
 
