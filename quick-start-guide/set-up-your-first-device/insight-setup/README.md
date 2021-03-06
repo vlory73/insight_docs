@@ -31,32 +31,29 @@ Press the More \(...\) button and select **Add Equipment**.
 
 Choose the appropriate Equipment Type. For this example, we will choose **Generator**.
 
-![](../../../.gitbook/assets/image%20%2815%29.png)
+![There are a variety of Equipment Types available for selection.](../../../.gitbook/assets/image%20%2815%29.png)
 
 ### Enter the Equipment details
 
+Once selected, the Equipment settings page will appear. 
+
 ![Creating a new Equipment](../../../.gitbook/assets/image%20%2818%29.png)
+
+{% hint style="info" %}
+This page is always the same for any of the Equipment Types.  
+The Equipment Types selection determines the default icon and the devices templates available when adding new devices.
+{% endhint %}
 
 Fill in the **Equipment Name**.
 
-Use the "Add new device" button to add a device to this equipment.   
+All the remaining fields are optional.  
+For more information on their meaning and use, follow the link below.
+
+{% page-ref page="../../../knowledge-base/settings/equipment-settings.md" %}
+
+## Adding devices
+
+Use the **Add new device** button to add a device to this equipment.   
 We will be now adding 2 devices,  the AGC-4 MkII and the FX30 gateway.   
-After this, we will set the Equipment's location settings
-
-
-
-
-
-### Link the DAU to the Equipment
-
-Press the **Next** button to move to the **Equipment Connection** tab.  
-Finally, select a single Equipment from the list and press **Save**.
-
-![Link the Equipment to the DAU](../../../.gitbook/assets/dau_equip_connect.png)
-
-{% hint style="success" %}
-The Equipment is now ready and its data will soon be received on Insight.
-{% endhint %}
-
-
+After this, we will set the Equipment's location settings.
 

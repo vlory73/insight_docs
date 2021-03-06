@@ -13,7 +13,8 @@
 * [Set up your first Equipment](quick-start-guide/set-up-your-first-device/README.md)
   * [Part 1: FX30 setup](quick-start-guide/set-up-your-first-device/fx30-setup.md)
   * [Part 2: Insight setup](quick-start-guide/set-up-your-first-device/insight-setup/README.md)
-    * [Add devices](quick-start-guide/set-up-your-first-device/insight-setup/add-devices.md)
+    * [Add the FX30](quick-start-guide/set-up-your-first-device/insight-setup/add-devices.md)
+    * [Add the AGC-4 controller](quick-start-guide/set-up-your-first-device/insight-setup/add-the-agc-4-controller.md)
     * [Equipment location options](quick-start-guide/set-up-your-first-device/insight-setup/equipment-location-options.md)
 * [Create your first dashboard](quick-start-guide/creating-your-first-dashboard.md)
 * [Add Insight to Home Screen](quick-start-guide/add-insight-to-home-screen.md)
@@ -38,6 +39,7 @@
 * [Notifications](knowledge-base/notifications.md)
 * [Analytics](knowledge-base/analytics.md)
 * [Settings](knowledge-base/settings/README.md)
-  * [Equipment](knowledge-base/settings/equipment.md)
+  * [Equipment settings](knowledge-base/settings/equipment-settings.md)
+  * [Untitled](knowledge-base/settings/untitled.md)
 * [FAQ](knowledge-base/faq.md)
 
