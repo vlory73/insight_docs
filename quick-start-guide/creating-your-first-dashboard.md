@@ -37,7 +37,7 @@ Please note that most widgets will require some configuration.
 
 For more information please check:
 
-{% page-ref page="../knowledge-base/widgets.md" %}
+{% page-ref page="../knowledge-base/widgets/" %}
 
 ### Move things around
 
