@@ -12,7 +12,7 @@ Upon pressing again on the button to **Add new device**, we are given different 
 
 We will now click once on the **+** button on the AGC-4 DG box to add a new AGC-4 to the Equipment and then press **Save.**
 
-![](../../../.gitbook/assets/image%20%2837%29.png)
+![](../../../.gitbook/assets/image%20%2838%29.png)
 
 {% hint style="info" %}
 The number of devices allowed on a single gateway depends on the Service Level attached.
@@ -28,7 +28,7 @@ Let's name it and proceed down.
 We now can see more of the content of the new device.  
 The next step is to give it the correct network setting.
 
-![](../../../.gitbook/assets/image%20%2847%29.png)
+![](../../../.gitbook/assets/image%20%2848%29.png)
 
 As we have seen in FX30 Setup, we need to set the controller and the FX30 in the same network area.  
 We will set up the controller with IP **192.168.20.210**. The remaining settings do not need changes but may be adjusted as desired.
