@@ -28,13 +28,13 @@ The FX30 provides connectivity through online and global data cloud, and require
 
 ## **Overview**
 
-![FX30 Data acquisition unit](../.gitbook/assets/image%20%284%29.png)
+![FX30 Modbus TCP gateway](../.gitbook/assets/image%20%2821%29.png)
 
 1. Slot for SIM card
 2. GNSS antenna connection
 3. Cellular antenna connection
 4. Power connection
-5. RJ-45 port for Ethernet connection
+5. RJ-45 port for network connection
 6. Micro USB port for PC connection
 7. Modbus Status LED
 8. 3G Status LED

@@ -1,6 +1,6 @@
 # About Insight
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 DEIF Insight is a remote monitoring service using advanced and secure cloud data management that provides you with instant access to data from all your equipment, no matter where it is - or where you are.
 

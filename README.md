@@ -12,7 +12,7 @@ We have created this documentation so that you can take the most out of your Ins
 
 Get up and running with Insight in the easiest way possible.
 
-### [Knowledge Base](knowledge-base/getting-started.md)
+### [Knowledge Base](knowledge-base/introduction.md)
 
 Deep-dive into the many features of Insight.
 

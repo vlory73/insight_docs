@@ -11,14 +11,16 @@
 * [Connecting to the controller](quick-start-guide/connecting-to-the-controller.md)
 * [PC requirements](quick-start-guide/windows-pc-preparation.md)
 * [Set up your first Equipment](quick-start-guide/set-up-your-first-device/README.md)
-  * [Part 1: FX30 setup](quick-start-guide/set-up-your-first-device/dau-setup.md)
-  * [Part 2: Insight setup](quick-start-guide/set-up-your-first-device/part-2-insight-setup.md)
+  * [Part 1: FX30 setup](quick-start-guide/set-up-your-first-device/fx30-setup.md)
+  * [Part 2: Insight setup](quick-start-guide/set-up-your-first-device/insight-setup/README.md)
+    * [Add devices](quick-start-guide/set-up-your-first-device/insight-setup/add-devices.md)
+    * [Equipment location options](quick-start-guide/set-up-your-first-device/insight-setup/equipment-location-options.md)
 * [Create your first dashboard](quick-start-guide/creating-your-first-dashboard.md)
 * [Add Insight to Home Screen](quick-start-guide/add-insight-to-home-screen.md)
 
 ## Knowledge Base
 
-* [Getting Started](knowledge-base/getting-started.md)
+* [Introduction](knowledge-base/introduction.md)
 * [Devices](knowledge-base/devices.md)
 * [Equipment](knowledge-base/equipment.md)
 * [Groups](knowledge-base/groups.md)
@@ -35,6 +37,7 @@
 * [Teams](knowledge-base/teams.md)
 * [Notifications](knowledge-base/notifications.md)
 * [Analytics](knowledge-base/analytics.md)
-* [Settings](knowledge-base/settings.md)
+* [Settings](knowledge-base/settings/README.md)
+  * [Equipment](knowledge-base/settings/equipment.md)
 * [FAQ](knowledge-base/faq.md)
 
