@@ -53,7 +53,7 @@ To delete a widget, click on the widget's settings button situated on the top-ri
 ![](../.gitbook/assets/image%20%2842%29.png)
 
 {% hint style="danger" %}
-Deleting is instantaneous. There is no confirmation dialog.Add a Widget pack
+Deleting is instantaneous. There is no confirmation dialog.
 {% endhint %}
 
 ### Add a Widget pack
