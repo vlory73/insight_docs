@@ -61,7 +61,7 @@ The power connector has 6 pins and its functions are described in the table belo
 Connect the **RED** and **YELLOW** wires to ➕ and the black wire to ➖of the power supply .
 {% endhint %}
 
-## Power Connector
+## Power cable and connector
 
 ![](../.gitbook/assets/image-10-.png)
 
@@ -70,7 +70,7 @@ Connect the **RED** and **YELLOW** wires to ➕ and the black wire to ➖of the 
     <tr>
       <th style="text-align:left">Pin</th>
       <th style="text-align:left">Function</th>
-      <th style="text-align:left">Colour</th>
+      <th style="text-align:left">Wire Color</th>
       <th style="text-align:left">Description</th>
     </tr>
   </thead>
