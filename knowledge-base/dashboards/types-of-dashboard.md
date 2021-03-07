@@ -10,5 +10,5 @@ Insight has three different types of Dashboards:
 
 The Home dashboard is the place to get an overview of the equipment registered on Insight.
 
-The Home dashboard provides a general view of the equipment, but still only shows and calculates data based on the equipment that the user has access to.
+The Home dashboard provides a general view of the equipment but only shows and calculates data based on the equipment that the user has access to.
 
