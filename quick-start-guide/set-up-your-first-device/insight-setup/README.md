@@ -49,6 +49,8 @@ Fill in the **Equipment Name**.
 All the remaining fields are optional.  
 For more information on their meaning and use, follow the link below.
 
+{% page-ref page="../../../knowledge-base/equipment.md" %}
+
 ## Adding devices
 
 Use the **Add new device** button to add a device to this equipment.   

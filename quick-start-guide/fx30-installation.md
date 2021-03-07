@@ -63,6 +63,8 @@ Connect the **RED** and **YELLOW** wires to ➕ and the black wire to ➖of the 
 
 ## Power Connector
 
+![](../.gitbook/assets/image-10-.png)
+
 <table>
   <thead>
     <tr>
