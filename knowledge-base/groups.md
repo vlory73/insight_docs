@@ -4,11 +4,13 @@ description: This page describes Groups and how to set them up
 
 # Groups
 
-What are groups
+## What are Groups?
 
-Groups are a great way to organize equipment. Equipment may need to be organized in groups due to geographic distribution or even when they are used together in a project. Groups are a great way to streamline the processes of monitoring and fetching data.
+Groups are a great way to organize equipment. 
 
-Create groups
+Equipment may need to be organized in groups due to geographic distribution or when they are used together in a project. Groups are a great way to streamline the processes of monitoring equipment, fetching data and delegating access.
+
+## Adding Groups
 
 
 
@@ -16,7 +18,7 @@ Under Settings / Equipment
 
 ![](../.gitbook/assets/image%20%2855%29.png)
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image.png)
 
 
 
