@@ -14,10 +14,10 @@ A version is mandatory, but this is not a critical field. Just set it to **1**, 
 In the **Data Acquisition Unit Configuration** section, we are going to select the type of **FX30**.  
 The FX30S is used for Modbus RTU \(RS-485\).  
 Introduce the **IMEI** and **Serial Number** of the FX30.  
-These can be found in the DAU Configuration page, the DAU box and the label on the device.
+These can be found in the Insight FX30 Configuration page, the FX30 kit box and the label on the device.
 
 {% hint style="info" %}
-Pro Tip: If you kept DAU Configuration page open in your browser, simply copy and paste the **IMEI** and **Serial Number** from one page to the other.
+Pro Tip: If you kept Insight FX30 Configuration page open on your browser, simply copy and paste the **IMEI** and **Serial Number** from one page to the other.
 {% endhint %}
 
 Since we want to use the GNSS facilities of the FX30 to keep track of our Equipment, we will enable geo-location. When enabling the geo-location, a time interval for location reporting must be set.  
