@@ -15,6 +15,8 @@ When landing on an empty dashboard, a pop-up is shown to allow immediate editing
 
 After saving the dashboard,  we'll need press the More \(...\) button on the top right corner and select **Edit Dashboard** to do future changes.
 
+![You can edit the dashboard or the equipment settings from the dashboard](../.gitbook/assets/image%20%281%29.png)
+
 ## Adding content to the dashboard
 
 Adding content to the dashboard is very easy.   
