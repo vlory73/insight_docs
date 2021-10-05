@@ -25,8 +25,9 @@
 * [Devices](knowledge-base/devices.md)
 * [Device Templates](knowledge-base/device-templates.md)
 * [Modbus tags](knowledge-base/modbus-tags.md)
-* [Notifications](knowledge-base/notifications.md)
 * [Equipment](knowledge-base/equipment.md)
+* [Notifications](knowledge-base/notifications.md)
+* [Map](knowledge-base/map.md)
 * [Groups](knowledge-base/groups.md)
 * [Dashboards](knowledge-base/dashboards/README.md)
   * [Types of Dashboard](knowledge-base/dashboards/types-of-dashboard.md)
@@ -39,6 +40,4 @@
 * [Users](knowledge-base/users.md)
 * [Roles](knowledge-base/roles.md)
 * [Teams](knowledge-base/teams.md)
-* [Map](knowledge-base/map.md)
-* [FAQ](knowledge-base/faq.md)
 

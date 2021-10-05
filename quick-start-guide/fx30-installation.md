@@ -5,7 +5,7 @@
 The following tools and materials are necessary to finish the installation and setup.
 
 * PH1 \(Phillips \#1\) screwdriver
-* mini-SIM card \(provided by your mobile network operator\)
+* mini-SIM \(2FF\) card, provided by your mobile network operator
 * Computer \(Laptop is recommended for portability\)
 * micro-USB cable \(max. 3m\)
 * Screws to secure the FX30 mounts \(optional\)
@@ -58,7 +58,7 @@ The power connector has 6 pins and its functions are described in the table belo
 
 {% hint style="success" %}
 **Quick Start**  
-Connect the **RED** and **YELLOW** wires to ➕ and the black wire to ➖of the power supply .
+Connect the **RED** and **YELLOW** wires to ➕ and the black wire to ➖of the power supply.
 {% endhint %}
 
 ## Power cable and connector

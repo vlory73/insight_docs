@@ -11,7 +11,7 @@ Thus, Insight works great on phones, tablets and computers.
 
 In order to greatly improve the experience on mobile devices \(phones and tablets\) and give Insight a near-native application look and feel,  we recommend adding it to the Home Screen of your mobile device.
 
-You will benefit from a quick access to your favourite Remote Monitoring tool and at the same time experience it on a full page with no navigation bars or browser buttons.
+You will benefit from quick access to your favourite Remote Monitoring tool and at the same time experience it on a full page with no navigation bars or browser buttons.
 
 ![Insight webapp](../.gitbook/assets/image%20%282%29.png)
 

@@ -1,8 +1,8 @@
 # Welcome
 
-Thank you for joining Insight, DEIF's premier remote monitoring solution.
+Thank you for joining Insight, DEIF's remote monitoring and data management solution.
 
-We have created this documentation so that you can take the most out of your Insight.
+We have created this documentation so that you can make the most out of your Insight experience.
 
 {% embed url="https://youtu.be/2jay\_GUZAxI" %}
 
