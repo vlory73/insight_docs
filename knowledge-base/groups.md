@@ -8,7 +8,7 @@ description: This page describes Groups and how to set them up
 
 Groups are a great way to organize equipment. 
 
-Equipment may need to be organized in groups due to geographic distribution or when they are used together in a project. Groups are a great way to streamline the processes of monitoring equipment, fetching data and delegating access.
+Equipment may need to be organized in groups due to geographic distribution or when they are used together in a project. Groups help you to streamline the processes of monitoring equipment, fetching data and delegating access.
 
 ## Adding Groups
 
