@@ -46,5 +46,9 @@ When device payloads have not been received for more than 30 minutes, they are c
 
 ![The grey bar on the left side indicates that the device is deemed offline.](<../../.gitbook/assets/image (65).png>)
 
+{% hint style="info" %}
+Equipment in stand-by operation does not send a 
+{% endhint %}
+
 
 
