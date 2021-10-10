@@ -21,7 +21,9 @@ Groups can be given a type. Group types are merely indicative and used for displ
 
 ![](../.gitbook/assets/image.png)
 
-After selecting a type, t
+After selecting a type, the details such as name and description can be added.
+
+
 
 ![](<../.gitbook/assets/image (59).png>)
 
