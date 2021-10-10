@@ -8,7 +8,7 @@ _Android, Chrome are_ trademarks of Google Inc. Use of this trademark is subject
 
 _Azure_, _Excel_, _Skype_ and _Windows_ are trademarks of Microsoft, registered in the U.S. and other countries.
 
-_Legato_ is a _trademark_ of Sierra Wireless, Inc.
+_Legato, FX30 and AirVantage are trademarks_ of Sierra Wireless, Inc.
 
 ## Copyright
 
@@ -16,9 +16,7 @@ _Legato_ is a _trademark_ of Sierra Wireless, Inc.
 
 For more information, please contact:
 
-DEIF A/S  
-Frisenborgvej 33  
+DEIF A/S\
+Frisenborgvej 33\
 7800 Skive
-
-
 

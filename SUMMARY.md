@@ -37,7 +37,7 @@
   * [Copy a Dashboard](knowledge-base/dashboards/copy-a-dashboard.md)
 * [Widgets](knowledge-base/widgets/README.md)
   * [Value](knowledge-base/widgets/value.md)
-* [Widget Packs](knowledge-base/widget-packs.md)
+* [Widget packs](knowledge-base/widget-packs.md)
 * [Users](knowledge-base/users.md)
 * [Roles](knowledge-base/roles.md)
 * [Teams](knowledge-base/teams.md)

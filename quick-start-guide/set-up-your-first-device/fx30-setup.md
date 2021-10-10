@@ -1,9 +1,6 @@
 ---
-description: >-
-  This page will help you setting up the FX30 and prepare it to read data from a
-  Modbus TCP device.
+description: This page will help you setting up the FX30 and prepare it to read data from a Modbus TCP device.
 ---
-
 # Part 1: FX30 setup
 
 ## Connect FX30 to PC
@@ -15,19 +12,19 @@ description: >-
 
 ## Configure the FX30
 
-Configuring the FX30 is a straightforward and easy task, requiring only to define network settings \(on Modbus TCP\) and operator's APN configuration. 
+Configuring the FX30 is a straightforward and easy task, requiring only to define network settings (on Modbus TCP) and operator's APN configuration. 
 
-![The web interface for the FX30 configuration](../../.gitbook/assets/image%20%2827%29.png)
+![The web interface for the FX30 configuration](<../../.gitbook/assets/image (17).png>)
 
 ### Configure network settings  
 
-When using the FX30 Modbus TCP variant, it will be necessary to configure the network settings.  
+When using the FX30 Modbus TCP variant, it will be necessary to configure the network settings.\
 This is necessary so that the FX30 is in the same network as the device that will be connected to Insight.
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](<../../.gitbook/assets/image (13).png>)
 
 {% hint style="info" %}
-Save your changes.  
+Save your changes.\
 You will be prompted to switch OFF the FX30 and turn it ON again to restart with the new network settings. This is recommended to execute at this stage.
 {% endhint %}
 
@@ -41,7 +38,7 @@ Check the APN settings with your operator before proceeding.
 
 In some instances, the FX30 may automatically detect the APN, based on the operator.
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](<../../.gitbook/assets/image (16).png>)
 
 {% hint style="info" %}
 If the data session is already connected, skip the rest of this section.
@@ -51,7 +48,7 @@ If the data session is already connected, skip the rest of this section.
 
 Click on tab "SIM Configuration" and enter the APN settings.
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](<../../.gitbook/assets/image (15).png>)
 
 {% hint style="warning" %}
 Don't forget to Save before leaving the page.
@@ -62,11 +59,10 @@ If you know the APN to be correct but cannot establish connection, check the not
 ## End Part 1
 
 {% hint style="success" %}
-The FX30 should now be configured.   
+The FX30 should now be configured. \
 Proceed to [Part 2: Insight setup](insight-setup/).
 {% endhint %}
 
 {% hint style="info" %}
 Hint: Keep the Insight FX30 Configuration page open in your browser as it will be handy during the next part.
 {% endhint %}
-

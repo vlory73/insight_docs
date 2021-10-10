@@ -18,23 +18,23 @@ If you are the administrator and did not receive an invitation to join Insight, 
 Navigate with your browser to the Insight portal at [`https://insight.deif.com`](https://insight.deif.com). \
 Use your credentials to log in.
 
-![When first logging in, Insight will feel very empty. Don't worry, we'll change that!](<../../../.gitbook/assets/image (17).png>)
+![When first logging in, Insight will feel very empty. Don't worry, we'll change that!](<../../../.gitbook/assets/image (18).png>)
 
 From the navigation menu, follow **Settings => Equipment. **
 
 Press the More (...) button and select **Add Equipment**.
 
-![Equipment and Groups (of Equipment) are managed in this page](<../../../.gitbook/assets/image (16).png>)
+![Equipment and Groups (of Equipment) are managed in this page](<../../../.gitbook/assets/image (19).png>)
 
 Choose the appropriate Equipment Type. For this example, we will choose **Generator**.
 
-![There are a variety of Equipment Types available for selection.](<../../../.gitbook/assets/image (15).png>)
+![There are a variety of Equipment Types available for selection.](<../../../.gitbook/assets/image (20).png>)
 
 ### Enter the Equipment details
 
 Once selected, the Equipment settings page will appear. 
 
-![Creating a new Equipment](<../../../.gitbook/assets/image (18).png>)
+![Creating a new Equipment](<../../../.gitbook/assets/image (21).png>)
 
 {% hint style="info" %}
 This page is always the same for any of the Equipment Types.\
