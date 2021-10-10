@@ -49,7 +49,7 @@ When device payloads have not been received for more than 30 minutes, they are c
 {% hint style="info" %}
 Equipment in standby operation with very steady values do not send a lot of data.
 
-For these, it is recommended to have at least one tag that is expected to change with a lower d 
+For these, it is recommended to have at least one tag (for a value that is expected to change) with a lower delta setting. 
 {% endhint %}
 
 
