@@ -13,9 +13,11 @@ Equipment may need to be organized in groups, for example, due to geographic dis
 
 
 
-Under Settings / Equipment
+Under Settings / Equipment, press the ... button on the top-right corner and select "Add Group". 
 
 ![](<../.gitbook/assets/image (55).png>)
+
+Groups can be given a type b
 
 ![](../.gitbook/assets/image.png)
 
