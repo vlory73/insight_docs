@@ -17,11 +17,11 @@ Under Settings / Equipment, press the ... button on the top-right corner and sel
 
 ![](<../.gitbook/assets/image (55).png>)
 
-Groups can be given a type b
+Groups can be given a type. Group types are merely indicative and used for display purposes only.
 
 ![](../.gitbook/assets/image.png)
 
-
+After selecting a type, t
 
 ![](<../.gitbook/assets/image (59).png>)
 
