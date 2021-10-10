@@ -33,7 +33,7 @@ The selected equipment will show in the list.
 
 ![](<../.gitbook/assets/image (56).png>)
 
-After saving, the new group appears in the Groups 
+After saving, the new group appears in the Groups tab under Settings / Equipment.
 
 ![The Group indicates the number of units of each type](<../.gitbook/assets/image (54).png>)
 

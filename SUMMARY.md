@@ -22,13 +22,14 @@
 ## Knowledge Base
 
 * [Introduction](knowledge-base/introduction.md)
-* [Devices](knowledge-base/devices.md)
-* [Device Templates](knowledge-base/device-templates.md)
+* [Devices](knowledge-base/devices/README.md)
+  * [Device status](knowledge-base/devices/device-status.md)
+  * [Device templates](knowledge-base/devices/device-templates.md)
 * [Modbus tags](knowledge-base/modbus-tags.md)
 * [Equipment](knowledge-base/equipment.md)
+* [Groups](knowledge-base/groups.md)
 * [Notifications](knowledge-base/notifications.md)
 * [Map](knowledge-base/map.md)
-* [Groups](knowledge-base/groups.md)
 * [Dashboards](knowledge-base/dashboards/README.md)
   * [Types of Dashboard](knowledge-base/dashboards/types-of-dashboard.md)
   * [Select a Dashboard](knowledge-base/dashboards/select-a-dashboard.md)
@@ -40,4 +41,3 @@
 * [Users](knowledge-base/users.md)
 * [Roles](knowledge-base/roles.md)
 * [Teams](knowledge-base/teams.md)
-
