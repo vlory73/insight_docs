@@ -47,7 +47,7 @@ When device payloads have not been received for more than 30 minutes, they are c
 ![The grey bar on the left side indicates that the device is deemed offline.](<../../.gitbook/assets/image (65).png>)
 
 {% hint style="info" %}
-Equipment in standby operation with very steady values do not send a lot of data.
+Equipment in standby operation with very steady values do not send a lot of data and can be mistakenly be set as offline.
 
 For these, it is recommended to have at least one tag (for a value that is expected to change) with a lower delta setting. 
 {% endhint %}
