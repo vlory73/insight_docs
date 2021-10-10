@@ -25,11 +25,15 @@ After selecting a type, details such as name and description can be added. Equip
 
 ![](<../.gitbook/assets/image (59).png>)
 
-Select the Equ
+Select the Equipment from the list and Confirm.
 
 ![](<../.gitbook/assets/image (64).png>)
 
+The selected equipment will show in the list.
+
 ![](<../.gitbook/assets/image (56).png>)
+
+After saving, the new group appears in the Groups 
 
 ![The Group indicates the number of units of each type](<../.gitbook/assets/image (54).png>)
 
