@@ -21,11 +21,11 @@ Groups can be given a type. Group types are merely indicative and used for displ
 
 ![](../.gitbook/assets/image.png)
 
-After selecting a type, the details such as name and description can be added.
-
-
+After selecting a type, details such as name and description can be added. Equipment can then be linked to the group by clicking on "Attach Equipment".
 
 ![](<../.gitbook/assets/image (59).png>)
+
+Select the Equ
 
 ![](<../.gitbook/assets/image (64).png>)
 
