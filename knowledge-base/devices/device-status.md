@@ -52,5 +52,5 @@ Equipment in standby operation with very steady values do not send a lot of data
 For these, it is recommended to have at least one tag (for a value that is expected to change) with a lower delta setting. 
 {% endhint %}
 
-
+i
 
