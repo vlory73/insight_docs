@@ -49,8 +49,8 @@ Fill in the **Equipment Name**.
 All the remaining fields are optional.\
 For more information on their meaning and use, follow the link below.
 
-{% content-ref url="../../../knowledge-base/equipment/" %}
-[equipment](../../../knowledge-base/equipment/)
+{% content-ref url="../../../knowledge-base/equipment.md" %}
+[equipment.md](../../../knowledge-base/equipment.md)
 {% endcontent-ref %}
 
 ## Adding devices

@@ -6,7 +6,7 @@ The devices listed on the settings page may have different statuses displayed de
 
 Any devices for which data has been received in the last 3 minutes are declared online. This evaluation serves both communication devices and measurement devices alike.
 
-![A green status indicates that Insight has recently received data from the device.](<../../.gitbook/assets/image (66).png>)
+![A green status indicates that Insight has recently received data from the device.](<../../.gitbook/assets/image (66) (1).png>)
 
 
 
@@ -26,7 +26,7 @@ The FX30 device will explicitly indicate an error of "No connection to the cloud
 
 Additionally, the FX30 will also report if some of its Modbus servers or slaves are not communicating.
 
-![The ](<../../.gitbook/assets/image (69).png>)
+![The ](<../../.gitbook/assets/image (69) (1).png>)
 
 
 
@@ -44,7 +44,7 @@ If the connectivity on-site is unaffected, a reboot command may help to reset th
 
 When device payloads have not been received for more than 30 minutes, they are considered offline.
 
-![The grey bar on the left side indicates that the device is deemed offline.](<../../.gitbook/assets/image (65).png>)
+![The grey bar on the left side indicates that the device is deemed offline.](<../../.gitbook/assets/image (65) (1).png>)
 
 {% hint style="warning" %}
 Equipment in standby operation with very steady values do not send a lot of data and can be mistakenly be set as offline.
