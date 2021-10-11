@@ -6,7 +6,7 @@ The devices listed on the settings page may have different statuses displayed de
 
 Any devices for which data has been received in the last 3 minutes are declared online. This evaluation serves both communication devices and measurement devices alike.
 
-![A green status indicates that Insight has recently received data from the device.](<../../.gitbook/assets/image (66) (1).png>)
+![](<../../.gitbook/assets/image (66) (1).png>)
 
 
 

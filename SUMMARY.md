@@ -25,7 +25,7 @@
 
 * [Introduction](knowledge-base/introduction.md)
 * [Devices](knowledge-base/devices/README.md)
-  * [Modbus tags](knowledge-base/devices/modbus-tags.md)
+  * [Modbus tags](knowledge-base/modbus-tags.md)
   * [Device templates](knowledge-base/devices/device-templates.md)
   * [Device status](knowledge-base/devices/device-status.md)
 * [Equipment](knowledge-base/equipment.md)
