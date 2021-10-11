@@ -42,7 +42,7 @@ The unit must always be grounded to earth. Earth connection will have to be done
 
 ### Serial port
 
-![](<../.gitbook/assets/image (69).png>)
+![](<../.gitbook/assets/image (71).png>)
 
 |   |   |
 | - | - |
