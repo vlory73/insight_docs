@@ -2,13 +2,13 @@
 
 ### Dimensions
 
-![](<../.gitbook/assets/image (64).png>)
+![](<../.gitbook/assets/image (70).png>)
 
 CSD = 350mm/13.77” = Minimum Compass Safe Distance of standard compass
 
 ### Installation
 
-![](<../.gitbook/assets/image (66).png>)
+![](<../.gitbook/assets/image (71).png>)
 
 The eXware is suitable for mounting on a DIN rail.
 
@@ -30,7 +30,7 @@ The eXware is suitable for mounting on a DIN rail.
 
 ### Power supply
 
-![](<../.gitbook/assets/image (65).png>)
+![](<../.gitbook/assets/image (74).png>)
 
 DC Power Connector, Female - R/C Terminal Blocks (XCFR2), manufactured by Weidmuller Inc., Cat. No. BLZ 5.08, torque 4.5 lb-in
 
@@ -42,16 +42,18 @@ The unit must always be grounded to earth. Earth connection will have to be done
 
 ### Serial port
 
-![](<../.gitbook/assets/image (71).png>)
+![](<../.gitbook/assets/image (75).png>)
 
-|   |   |
-| - | - |
-| 1 |   |
-| 2 |   |
-| 3 |   |
-| 4 |   |
-| 5 |   |
-| 6 |   |
+|   |            |
+| - | ---------- |
+| 1 | RX/CHB     |
+| 2 | TX/CHA     |
+| 3 | CTS/CHB+   |
+| 4 | RTS/CHA+   |
+| 5 | +5V output |
+| 6 | GND        |
+| 7 |            |
+| 8 | SHIELD     |
 
-TTo operate in RS-485 pins 1-2 and 4-3 must be connected externally
+To operate in RS-485 pins 1-2 and 4-3 must be connected externally.
 
