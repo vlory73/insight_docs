@@ -6,7 +6,7 @@ The devices listed on the settings page may have different statuses displayed de
 
 Any devices for which data has been received in the last 3 minutes are declared online. This evaluation serves both communication devices and measurement devices alike.
 
-![The green indicator on the left side indicates that the device is online.](<../../.gitbook/assets/image (66) (1) (1).png>)
+![The green indicator on the left side indicates that the device is online.](<../../.gitbook/assets/image (66) (1) (1) (1).png>)
 
 
 

@@ -38,22 +38,3 @@ DC Power Connector, Female - R/C Terminal Blocks (XCFR2), manufactured by Weidmu
 
 The unit must always be grounded to earth. Earth connection will have to be done using either the screw or the faston terminal located near the power supply terminal block. Also connect to ground terminal 3 on the power supply terminal block.
 
-
-
-### Serial port
-
-![](<../.gitbook/assets/image (75).png>)
-
-|   |            |
-| - | ---------- |
-| 1 | RX/CHB     |
-| 2 | TX/CHA     |
-| 3 | CTS/CHB+   |
-| 4 | RTS/CHA+   |
-| 5 | +5V output |
-| 6 | GND        |
-| 7 |            |
-| 8 | SHIELD     |
-
-To operate in RS-485 pins 1-2 and 4-3 must be connected externally.
-

@@ -10,7 +10,7 @@
 * [FX30 installation](quick-start-guide/fx30-installation.md)
 * [About the eXware 703](quick-start-guide/about-the-exware-703.md)
 * [eXware 703 installation](quick-start-guide/exware-703-installation.md)
-* [Connecting to the controller](quick-start-guide/connecting-to-the-controller.md)
+* [Connecting to the device](quick-start-guide/connecting-to-the-controller.md)
 * [PC requirements](quick-start-guide/windows-pc-preparation.md)
 * [Set up your first Equipment](quick-start-guide/set-up-your-first-device/README.md)
   * [Part 1: FX30 setup](quick-start-guide/set-up-your-first-device/fx30-setup.md)
