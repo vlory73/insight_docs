@@ -6,7 +6,7 @@ The devices listed on the settings page may have different statuses displayed de
 
 Any devices for which data has been received in the last 3 minutes are declared online. This evaluation serves both communication devices and measurement devices alike.
 
-![](<../../.gitbook/assets/image (66) (1).png>)
+![The green indicator on the left side indicates that the device is online.](<../../.gitbook/assets/image (66) (1).png>)
 
 
 
@@ -24,7 +24,7 @@ The FX30 device will explicitly indicate an error of "No connection to the cloud
 
 
 
-Additionally, the FX30 will also report if some of its Modbus servers or slaves are not communicating.
+Additionally, the FX30 will also report if some of the Modbus devices are not communicating.
 
 ![The ](<../../.gitbook/assets/image (69) (1).png>)
 
@@ -32,7 +32,9 @@ Additionally, the FX30 will also report if some of its Modbus servers or slaves 
 
 Finally, there is a third error message when the FX30 has not sent a heartbeat signal to its management service (AirVantage). This situation does not allow commands (configuration, geolocation and live mode) to be sent from Insight to the FX30.
 
-![](<../../.gitbook/assets/image (67).png>)
+![This unit has not sent a heartbeat to AirVantage in the last 3 minutes. Status is orange because Insight received data from it.](<../../.gitbook/assets/image (67).png>)
+
+
 
 {% hint style="info" %}
 If the connectivity on-site is unaffected, a reboot command may help to reset the connection between the FX30 and AirVantage.
@@ -52,7 +54,7 @@ Equipment in standby operation with very steady values do not send a lot of data
 For these, it is recommended to have at least one tag (for a value that is expected to change) with a lower delta setting. 
 {% endhint %}
 
-i
+
 
 Learn also how to set up notifications for the status of the device
 
