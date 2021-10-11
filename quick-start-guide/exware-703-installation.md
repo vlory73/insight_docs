@@ -40,7 +40,14 @@ The unit must always be grounded to earth. Earth connection will have to be done
 
 
 
-*
+|   |   |
+| - | - |
+| 1 |   |
+| 2 |   |
+| 3 |   |
+| 4 |   |
+| 5 |   |
+| 6 |   |
 
 TTo operate in RS-485 pins 1-2 and 4-3 must be connected externally
 
