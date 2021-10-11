@@ -10,6 +10,8 @@ _Azure_, _Excel_, _Skype_ and _Windows_ are trademarks of Microsoft, registered 
 
 _Legato, FX30 and AirVantage are trademarks_ of Sierra Wireless, Inc.
 
+_exWare and Exor are trademarks of Exor International S.p.A._
+
 ## Copyright
 
 © Copyright DEIF A/S 2018-2021. All rights reserved.
