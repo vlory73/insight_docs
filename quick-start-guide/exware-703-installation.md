@@ -28,7 +28,13 @@ The eXware is suitable for mounting on a DIN rail.
 
     \* for maintenance only
 
-### Po
+### Power supply
+
+![](broken-reference)
+
+DC Power Connector, Female - R/C Terminal Blocks (XCFR2), manufactured by Weidmuller Inc., Cat. No. BLZ 5.08, torque 4.5 lb-in
+
+
 
 
 
