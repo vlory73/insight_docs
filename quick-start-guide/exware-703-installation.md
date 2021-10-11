@@ -34,9 +34,9 @@ The eXware is suitable for mounting on a DIN rail.
 
 DC Power Connector, Female - R/C Terminal Blocks (XCFR2), manufactured by Weidmuller Inc., Cat. No. BLZ 5.08, torque 4.5 lb-in
 
+The unit must always be grounded to earth. Earth connection will have to be done using either the screw or the faston terminal located near the power supply terminal block. Also connect to ground terminal 3 on the power supply terminal block.
 
-
-
+![](broken-reference)
 
 
 
