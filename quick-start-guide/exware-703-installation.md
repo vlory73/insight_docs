@@ -24,7 +24,9 @@ The eXware is suitable for mounting on a DIN rail.
 4. Ethernet Port 0 (10/100 Mb)
 5. USB Port V2.0, max 500 mA \*
 6. Expansion slot for plug-in modules
-7. SD card slot
+7.  SD card slot
+
+    \* for maintenance only
 
 
 
