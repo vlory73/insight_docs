@@ -12,13 +12,21 @@ CSD = 350mm/13.77” = Minimum Compass Safe Distance of standard compass
 
 The eXware is suitable for mounting on a DIN rail.
 
-###
 
-### Rear view
+
+### Connectors view
 
 ![](broken-reference)
 
+1. Serial port
+2. Power
+3. Ethernet Port 1 (10/100 Mb)
+4. Ethernet Port 0 (10/100 Mb)
+5.  USB Port V2.0, max 500 mA \*
 
+    Expansion slot for plug-in modules
+
+    1. SD card slot
 
 
 
