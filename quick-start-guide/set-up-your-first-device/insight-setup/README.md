@@ -1,6 +1,9 @@
 ---
-description: This page focus on the setup of the FX30 and controller devices on the Insight portal.
+description: >-
+  This page focus on the setup of the FX30 and controller devices on the Insight
+  portal.
 ---
+
 # Part 2: Insight setup
 
 ## Pre-requisites
@@ -46,8 +49,8 @@ Fill in the **Equipment Name**.
 All the remaining fields are optional.\
 For more information on their meaning and use, follow the link below.
 
-{% content-ref url="../../../knowledge-base/equipment.md" %}
-[equipment.md](../../../knowledge-base/equipment.md)
+{% content-ref url="../../../knowledge-base/equipment/" %}
+[equipment](../../../knowledge-base/equipment/)
 {% endcontent-ref %}
 
 ## Adding devices

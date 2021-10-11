@@ -54,3 +54,8 @@ For these, it is recommended to have at least one tag (for a value that is expec
 
 i
 
+Learn also how to set up notifications for the status of the device
+
+{% content-ref url="../notifications/device-status-notifications.md" %}
+[device-status-notifications.md](../notifications/device-status-notifications.md)
+{% endcontent-ref %}
