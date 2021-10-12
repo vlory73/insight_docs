@@ -10,13 +10,13 @@ Connect a network cable (Cat6 or better) between the FX30 gateway and the contro
 
 ## eXware 703 network interfaces
 
+![](<../.gitbook/assets/image (68).png>)
 
+Use the ETH1 port (3) to connect to the same network as the Modbus devices.
 
 
 
 ## eXware 703 serial port
-
-
 
 
 
@@ -33,4 +33,4 @@ Connect a network cable (Cat6 or better) between the FX30 gateway and the contro
 | 7 |            |
 | 8 | SHIELD     |
 
-To operate in RS-485 pins 1-2 and 4-3 must be connected externally.
+To operate in RS-485, pins 1-2 and 4-3 must be connected externally.

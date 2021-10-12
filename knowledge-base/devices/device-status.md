@@ -6,7 +6,7 @@ The devices listed on the settings page may have different statuses displayed de
 
 Any devices for which data has been received in the last 3 minutes are declared online. This evaluation serves both communication devices and measurement devices alike.
 
-![The green indicator on the left side indicates that the device is online.](<../../.gitbook/assets/image (66) (1) (1) (1).png>)
+![The green bar on the left side indicates that the device is online.](<../../.gitbook/assets/image (66) (1) (1) (1).png>)
 
 
 
@@ -14,19 +14,19 @@ Any devices for which data has been received in the last 3 minutes are declared 
 
 Both communication and measurement devices will display an orange state when the last data received is older than 3 minutes. 
 
-![An orange status indicator means that no data has been received from it in the last 3 minutes.](<../../.gitbook/assets/image (64) (1).png>)
+![An orange status bar means that no data has been received from it in the last 3 minutes.](<../../.gitbook/assets/image (64) (1).png>)
 
 
 
 The FX30 device will explicitly indicate an error of "No connection to the cloud" when the last payload receives is older than 3 minutes.
 
-![The FX30 device show the message "No connection to cloud" as a complement to the orange status.](<../../.gitbook/assets/image (68) (1).png>)
+![The FX30 device shows the message "No connection to cloud" as a complement to the orange status.](<../../.gitbook/assets/image (68) (1).png>)
 
 
 
 Additionally, the FX30 will also report if some of the Modbus devices are not communicating.
 
-![The ](<../../.gitbook/assets/image (69) (1) (1).png>)
+![ ](<../../.gitbook/assets/image (69) (1) (1).png>)
 
 
 
