@@ -42,6 +42,6 @@
 * [Widgets](knowledge-base/widgets/README.md)
   * [Value](knowledge-base/widgets/value.md)
 * [Widget packs](knowledge-base/widget-packs.md)
-* [Users](knowledge-base/users.md)
-* [Roles](knowledge-base/roles.md)
+* [User management](knowledge-base/users/README.md)
+  * [Roles](knowledge-base/users/roles.md)
 * [Teams](knowledge-base/teams.md)

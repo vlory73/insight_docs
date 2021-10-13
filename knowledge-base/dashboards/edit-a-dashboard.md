@@ -2,9 +2,8 @@
 
 Tabs
 
-Widgets and WIdget packs
+Widgets and Widget packs
 
 Duplicate widgets
 
 Select multiple widgets
-

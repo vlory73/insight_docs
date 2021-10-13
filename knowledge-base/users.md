@@ -1,6 +1,0 @@
-# Users
-
-## Adding a user
-
-
-

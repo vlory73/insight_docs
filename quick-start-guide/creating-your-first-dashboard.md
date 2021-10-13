@@ -1,18 +1,19 @@
 ---
 description: This page explains how to create a dashboard for your first unit.
 ---
+
 # Create your first dashboard
 
 Click on **Equipment** on the main menu.
 
 ![The green status indicates that data is being received from both devices.](<../.gitbook/assets/image (36).png>)
 
-Clicking on the Equipment leads us to its Dashboard.\
+Clicking on the Equipment leads to its Dashboard.\
 When landing on an empty dashboard, a pop-up is shown to allow immediate editing.
 
 ![Empty Equipment Dashboard](<../.gitbook/assets/image (38).png>)
 
-After saving the dashboard,  we'll need press the More (...) button on the top right corner and select **Edit Dashboard** to do future changes.
+After saving the dashboard, press the More (...) button on the top right corner and select **Edit Dashboard** to do future changes.
 
 ![You can edit the dashboard or the equipment settings from the dashboard](<../.gitbook/assets/image (63).png>)
 
@@ -54,7 +55,7 @@ To delete a widget, click on the widget's settings button situated on the top-ri
 ![](<../.gitbook/assets/image (42).png>)
 
 {% hint style="danger" %}
-Deleting is instantaneous. There is no confirmation dialog.
+Deleting a widget is instantaneous. There is no confirmation dialogue.
 {% endhint %}
 
 ### Add a Widget pack
@@ -67,7 +68,7 @@ You can also create your own widget packs by selecting multiple widgets and sele
 ![Choosing a pre-defined Widget pack for the dashboard](<../.gitbook/assets/image (43).png>)
 
 {% hint style="info" %}
-Each dashboard type has its own listing of available Widget Packs.
+Each type of dashboard has its own listing of available Widget Packs.
 {% endhint %}
 
 After inserting a widget pack, the device must be selected on the widgets.\
