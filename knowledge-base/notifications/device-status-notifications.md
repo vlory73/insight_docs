@@ -6,7 +6,7 @@ Status notifications give the opportunity to configure SMS and email messages to
 
 ### Where to find and configure the status notifications
 
-Navigate to **Settings / Devices** and choose a communication device (e.g. FX30).
+Navigate to **Settings / Devices** and choose a communication device from the list (e.g. FX30).
 
 Within the device's settings, there is a section to configure its status notifications.
 
@@ -42,7 +42,7 @@ At this moment, the trigger timer has no effect on the device status notificatio
 
 ### Setting up recipients
 
-Click on "Attach User" to open a selection window for all users.
+Click on **Attach User** to open a selection window for all users.
 
 After adding a user, the icons on the right side allow the choice of the notification type.
 
@@ -52,4 +52,4 @@ After adding a user, the icons on the right side allow the choice of the notific
 
 ### Finishing up
 
-To finalise the configuration, click on "Save and Send configuration" at the bottom of the page.
+To finalise the configuration, click on **Save and Send configuration** at the bottom of the page.

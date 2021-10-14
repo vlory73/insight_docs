@@ -22,7 +22,7 @@ To remove the SIM card, press to release the card and gently pull it out.
 
  
 
-![Remove cover and insert SIM](<../.gitbook/assets/image (4).png>)
+![Remove cover and insert SIM](<../../../.gitbook/assets/image (4).png>)
 
 ## Connect antennas
 
@@ -39,7 +39,7 @@ The antenna supplied with the FX30 kits has both cellular and GNSS functions.
 For optimal results, mount the GNSS antenna in a place with good sky exposure.
 {% endhint %}
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6).png>)
 
 ## Fusing
 
@@ -63,7 +63,7 @@ Connect the **RED** and **YELLOW** wires to ➕ and the black wire to ➖of the 
 
 ## Power cable and connector
 
-![](<../.gitbook/assets/image (10) (1).png>)
+![](<../../../.gitbook/assets/image (10) (1).png>)
 
 | Pin | Function | Wire Color | Description                                                                     |
 | --- | -------- | ---------- | ------------------------------------------------------------------------------- |

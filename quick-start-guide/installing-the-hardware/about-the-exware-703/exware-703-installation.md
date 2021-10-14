@@ -2,13 +2,13 @@
 
 ### Dimensions
 
-![](<../.gitbook/assets/image (70).png>)
+![](<../../../.gitbook/assets/image (70).png>)
 
 CSD = 350mm/13.77” = Minimum Compass Safe Distance of standard compass
 
 ### Installation
 
-![](<../.gitbook/assets/image (71).png>)
+![](<../../../.gitbook/assets/image (71).png>)
 
 The eXware is suitable for mounting on a DIN rail.
 
@@ -16,7 +16,7 @@ The eXware is suitable for mounting on a DIN rail.
 
 ### Connectors view
 
-![](<../.gitbook/assets/image (68).png>)
+![](<../../../.gitbook/assets/image (68).png>)
 
 1. Serial port
 2. Power
@@ -28,13 +28,17 @@ The eXware is suitable for mounting on a DIN rail.
 
     \* for maintenance only
 
+{% hint style="info" %}
+ETH0 should be used for connection to the Internet. It also comes with DHCP already enabled for a plug'n'play experience.
+{% endhint %}
+
 ### Power supply
 
-![](<../.gitbook/assets/image (74).png>)
+![](<../../../.gitbook/assets/image (74).png>)
 
 DC Power Connector, Female - R/C Terminal Blocks (XCFR2), manufactured by Weidmuller Inc., Cat. No. BLZ 5.08, torque 4.5 lb-in
 
-![](<../.gitbook/assets/image (67).png>)
+![](<../../../.gitbook/assets/image (67).png>)
 
 The unit must always be grounded to earth. Earth connection will have to be done using either the screw or the faston terminal located near the power supply terminal block. Also connect to ground terminal 3 on the power supply terminal block.
 

@@ -18,7 +18,7 @@ Both communication and measurement devices will display an orange state when the
 
 
 
-The FX30 device will explicitly indicate an error of "No connection to the cloud" when the last payload receives is older than 3 minutes.
+The FX30 device will explicitly indicate an error of **No connection to the cloud** when the last payload receives is older than 3 minutes.
 
 ![The FX30 device shows the message "No connection to cloud" as a complement to the orange status.](<../../.gitbook/assets/image (68) (1).png>)
 

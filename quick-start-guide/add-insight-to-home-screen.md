@@ -1,6 +1,12 @@
 ---
-description: Instructions on how to add Insight to the home screen of the most popular mobile operating systems.
+description: >-
+  Instructions on how to add Insight to the home screen of the most popular
+  mobile operating systems.
+cover: >-
+  https://images.unsplash.com/photo-1603731955241-3f4fca7e50a2?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHx3aWRnZXR8ZW58MHx8fHwxNjM0MTE0NTc3&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
+
 # Add Insight to Home Screen
 
 Insight is designed to take into account the multiple devices that we have at our disposal on a daily basis. \
