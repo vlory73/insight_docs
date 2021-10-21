@@ -11,6 +11,8 @@
     * [FX30 installation](quick-start-guide/installing-the-hardware/about-the-dau/fx30-installation.md)
   * [About the eXware 703](quick-start-guide/installing-the-hardware/about-the-exware-703/README.md)
     * [eXware 703 installation](quick-start-guide/installing-the-hardware/about-the-exware-703/exware-703-installation.md)
+    * [eXware 703 network setup](quick-start-guide/installing-the-hardware/about-the-exware-703/exware-703-network-setup.md)
+    * [eXware 703 configuration](quick-start-guide/installing-the-hardware/about-the-exware-703/exware-703-configuration.md)
   * [Connect to the Modbus device](quick-start-guide/installing-the-hardware/connecting-to-the-controller.md)
 * [PC requirements](quick-start-guide/windows-pc-preparation.md)
 * [Set up your first Equipment](quick-start-guide/set-up-your-first-device/README.md)
