@@ -1,8 +1,8 @@
-# Add the eXware 703
+# Add an eXware 703
 
 Upon pressing again on the button to **Add new device**, we will now head to the **New devices** tab and from there select **eX703**.
 
-![](<../../../../.gitbook/assets/image (31).png>)
+![](<../../../../.gitbook/assets/image (68).png>)
 
 ~~Once on the FX30 device page, fill in the **Device detail** section and give the device a recognizable name. ~~\
 ~~You can give it the same name as the Equipment or a variation of it, for example.~~
@@ -33,7 +33,13 @@ Press **Save and Send Configuration **and we will finish the setup in the next s
 
 In order to have the eXware ready for over-the-air (OTA) configuration, it is necessary to execute an initial, manual retrieval of the configuration.
 
-This is done by accessing the IP address of the device on a web browser.
+Ensure that the device is connected to the internet.
+
+{% hint style="warning" %}
+Advanced: SSH into the device and use **ping 8.8.8.8** or **ping google.com** to check for internet connection
+{% endhint %}
+
+Access the IP address of the device on a web browser.
 
 Type anything into the field
 
@@ -41,11 +47,7 @@ Submit the change
 
 If the configuration is retrieved successfully, the device will restart.
 
-Ensure that the device is connected to the internet.
 
-{% hint style="warning" %}
-Advanced: SSH into the device and use **ping 8.8.8.8** or **ping google.com** to check for internet connection
-{% endhint %}
 
 
 

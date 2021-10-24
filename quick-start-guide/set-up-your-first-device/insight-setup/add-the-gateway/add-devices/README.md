@@ -1,4 +1,4 @@
-# Add the FX30
+# Add an FX30
 
 Upon pressing again on the button to **Add new device**, we will now head to the **New devices** tab and from there select **FX30**.
 

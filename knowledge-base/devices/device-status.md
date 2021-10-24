@@ -12,7 +12,7 @@ Any devices for which data has been received in the last 3 minutes are declared 
 
 ### Warning
 
-Both communication and measurement devices will display an orange state when the last data received is older than 3 minutes. 
+Both communication and measurement devices will display an orange state when the last data received is older than 3 minutes.&#x20;
 
 ![An orange status bar means that no data has been received from it in the last 3 minutes.](<../../.gitbook/assets/image (64) (1).png>)
 
@@ -20,7 +20,7 @@ Both communication and measurement devices will display an orange state when the
 
 The FX30 device will explicitly indicate an error of **No connection to the cloud** when the last payload receives is older than 3 minutes.
 
-![The FX30 device shows the message "No connection to cloud" as a complement to the orange status.](<../../.gitbook/assets/image (68) (1).png>)
+![The FX30 device shows the message "No connection to cloud" as a complement to the orange status.](<../../.gitbook/assets/image (68) (1) (1).png>)
 
 
 
@@ -51,7 +51,7 @@ When device payloads have not been received for more than 30 minutes, they are c
 {% hint style="warning" %}
 Equipment in standby operation with very steady values do not send a lot of data and can be mistakenly set as offline.
 
-For these, it is recommended to have at least one tag (for a value that is expected to change) with a lower delta setting. 
+For these, it is recommended to have at least one tag (for a value that is expected to change) with a lower delta setting.&#x20;
 {% endhint %}
 
 

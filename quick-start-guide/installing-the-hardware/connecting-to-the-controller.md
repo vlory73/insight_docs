@@ -10,7 +10,7 @@ Connect an Ethernet network cable (Cat6 or better) between the FX30 gateway and 
 
 ## eXware 703 network interfaces
 
-![](<../../.gitbook/assets/image (68).png>)
+![](<../../.gitbook/assets/image (68) (1).png>)
 
 Connect a network cable (Cat6 or better) between the eXware 703 and the controller.
 

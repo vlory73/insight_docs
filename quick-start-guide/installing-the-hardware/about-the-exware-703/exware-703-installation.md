@@ -20,7 +20,7 @@ The eXware is suitable for mounting on a DIN rail.
 
 ### Connectors view
 
-![](<../../../.gitbook/assets/image (68).png>)
+![](<../../../.gitbook/assets/image (68) (1).png>)
 
 1. Serial port
 2. Power
