@@ -18,7 +18,7 @@ You will have to set up your PC network interface to access IP address 192.168.0
 {% endhint %}
 
 {% hint style="danger" %}
-Since the gateway will be permanently connected to the internet, it is critical to [change the password](exware-703-setup.md#undefined).
+Since the gateway will be permanently connected to the internet, it is critical to [change the password](exware-703-setup.md#change-password).
 {% endhint %}
 
 ## Configure the eXware 703
