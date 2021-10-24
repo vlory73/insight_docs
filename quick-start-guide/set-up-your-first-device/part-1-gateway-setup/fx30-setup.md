@@ -1,7 +1,10 @@
 ---
-description: This page will help you setting up the FX30 and prepare it to read data from a Modbus TCP device.
+description: >-
+  This page will help you setting up the FX30 and prepare it to read data from a
+  Modbus TCP device.
 ---
-# Part 1: FX30 setup
+
+# FX30 setup
 
 ## Connect FX30 to PC
 
@@ -12,16 +15,16 @@ description: This page will help you setting up the FX30 and prepare it to read 
 
 ## Configure the FX30
 
-Configuring the FX30 is a straightforward and easy task, requiring only to define network settings (on Modbus TCP) and operator's APN configuration. 
+Configuring the FX30 is a straightforward and easy task, requiring only to define network settings (on Modbus TCP) and operator's APN configuration.&#x20;
 
-![The web interface for the FX30 configuration](<../../.gitbook/assets/image (17).png>)
+![The web interface for the FX30 configuration](<../../../.gitbook/assets/image (17).png>)
 
-### Configure network settings  
+### Configure network settings &#x20;
 
 When using the FX30 Modbus TCP variant, it will be necessary to configure the network settings.\
 This is necessary so that the FX30 is in the same network as the device that will be connected to Insight.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (13).png>)
 
 {% hint style="info" %}
 Save your changes.\
@@ -30,15 +33,15 @@ You will be prompted to switch OFF the FX30 and turn it ON again to restart with
 
 ### Configure APN settings
 
-The APN configuration is an important step without which no data sessions can be started. 
+The APN configuration is an important step without which no data sessions can be started.&#x20;
 
 {% hint style="warning" %}
-Check the APN settings with your operator before proceeding. 
+Check the APN settings with your operator before proceeding.&#x20;
 {% endhint %}
 
 In some instances, the FX30 may automatically detect the APN, based on the operator.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (16).png>)
 
 {% hint style="info" %}
 If the data session is already connected, skip the rest of this section.
@@ -48,19 +51,19 @@ If the data session is already connected, skip the rest of this section.
 
 Click on tab "SIM Configuration" and enter the APN settings.
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../../.gitbook/assets/image (15).png>)
 
 {% hint style="warning" %}
 Don't forget to Save before leaving the page.
 
-If you know the APN to be correct but cannot establish connection, check the notes about network interfaces on [PC requirements](../windows-pc-preparation.md) or contact your operator.
+If you know the APN to be correct but cannot establish connection, check the notes about network interfaces on [PC requirements](../../windows-pc-preparation.md) or contact your operator.
 {% endhint %}
 
 ## End Part 1
 
 {% hint style="success" %}
 The FX30 should now be configured. \
-Proceed to [Part 2: Insight setup](insight-setup/).
+Proceed to [Part 2: Insight setup](../insight-setup/).
 {% endhint %}
 
 {% hint style="info" %}

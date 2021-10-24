@@ -2,7 +2,7 @@
 
 ## FX30 Modbus TCP
 
-Connect a network cable (Cat6 or better) between the FX30 gateway and the controller.
+Connect an Ethernet network cable (Cat6 or better) between the FX30 gateway and the controller.
 
 ## FX30S Modbus RTU (Serial RS-485)
 

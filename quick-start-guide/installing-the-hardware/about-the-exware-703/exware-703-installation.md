@@ -1,5 +1,9 @@
 # eXware 703 installation
 
+{% hint style="info" %}
+Refer also to the printed documentation delivered with the eXware 703 gateway.
+{% endhint %}
+
 ### Dimensions
 
 ![](<../../../.gitbook/assets/image (70).png>)
@@ -29,7 +33,7 @@ The eXware is suitable for mounting on a DIN rail.
     \* for maintenance only
 
 {% hint style="info" %}
-ETH0 should be used for connection to the Internet. It also comes with DHCP already enabled for a plug'n'play experience.
+ETH0 should be used for connection to the Internet. It is predefined with DHCP enabled for a Plug'n'Play experience.
 {% endhint %}
 
 ### Power supply
@@ -40,5 +44,5 @@ DC Power Connector, Female - R/C Terminal Blocks (XCFR2), manufactured by Weidmu
 
 ![](<../../../.gitbook/assets/image (67).png>)
 
-The unit must always be grounded to earth. Earth connection will have to be done using either the screw or the faston terminal located near the power supply terminal block. Also connect to ground terminal 3 on the power supply terminal block.
+The unit must always be grounded to the earth. Earth connection will have to be done using either the screw or the faston terminal located near the power supply terminal block. Also, connect to ground terminal 3 on the power supply terminal block.
 
