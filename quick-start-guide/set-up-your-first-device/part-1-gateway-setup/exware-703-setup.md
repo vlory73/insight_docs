@@ -1,6 +1,6 @@
 # eXware 703 setup
 
-## Connect eXware 703 to PC
+## Connect the eXware 703 to PC
 
 Connect an Ethernet network cable between the PC and ETH1 port on the eXware gateway&#x20;
 
@@ -39,7 +39,9 @@ ETH1 / LAN: IP Address 192.168.0.1 Subnet mask: 255.255.255.0&#x20;
 
 ### Enabling/disabling services on the eXware 703
 
+During commissioning, it may be useful to enable some of the services that eXware provides.
 
+The SSH service can be used for troubleshooting and VNC can be used as an alternative to the web browser.
 
 {% hint style="warning" %}
 Once the gateway is ready for deployment, it is highly recommended to disable the SSH and VNC services.
