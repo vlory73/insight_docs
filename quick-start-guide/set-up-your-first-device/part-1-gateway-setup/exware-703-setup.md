@@ -18,7 +18,7 @@ You will have to set up your PC network interface to access IP address 192.168.0
 {% endhint %}
 
 {% hint style="danger" %}
-Since the gateway will be permanently connected to the internet, it is critical to change the password.
+Since the gateway will be permanently connected to the internet, it is critical to [change the password](exware-703-setup.md#undefined).
 {% endhint %}
 
 ## Configure the eXware 703
@@ -44,4 +44,10 @@ ETH1 / LAN: IP Address 192.168.0.1 Subnet mask: 255.255.255.0&#x20;
 {% hint style="warning" %}
 Once the gateway is ready for deployment, it is highly recommended to disable the SSH and VNC services.
 {% endhint %}
+
+### Change password
+
+To change the password, navigate to&#x20;
+
+
 
