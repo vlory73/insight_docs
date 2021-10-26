@@ -18,6 +18,7 @@
     * [FX30 setup](quick-start-guide/set-up-your-first-device/part-1-gateway-setup/fx30-setup.md)
     * [eXware 703 setup](quick-start-guide/set-up-your-first-device/part-1-gateway-setup/exware-703-setup.md)
   * [Part 2: Insight setup](quick-start-guide/set-up-your-first-device/insight-setup/README.md)
+    * [Page 1](quick-start-guide/set-up-your-first-device/insight-setup/page-1.md)
     * [Add the AGC-4 controller](quick-start-guide/set-up-your-first-device/insight-setup/add-the-agc-4-controller.md)
     * [Add a gateway](quick-start-guide/set-up-your-first-device/insight-setup/add-the-gateway/README.md)
       * [Add an FX30](quick-start-guide/set-up-your-first-device/insight-setup/add-the-gateway/add-devices/README.md)
