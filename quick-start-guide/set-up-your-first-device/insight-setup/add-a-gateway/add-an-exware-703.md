@@ -30,15 +30,17 @@ Press **Save and Send Configuration **and we will finish the setup in the next s
 
 In order to have the eXware ready for over-the-air (OTA) configuration, it is necessary to execute an initial, manual retrieval of the configuration.
 
-Ensure that the device is connected to the internet.
+Ensure that the device is connected to the internet and that ports 80, 443 and 8883 are enabled by your firewall settings.
 
 {% hint style="warning" %}
 Advanced: SSH into the device and use **ping 8.8.8.8** or **ping google.com** to check for an internet connection.
 {% endhint %}
 
+
+
 Access the IP address of the gateway on a web browser and log in.
 
-&#x20;
+&#x20;![](<../../../../.gitbook/assets/image (76).png>)
 
 {% hint style="info" %}
 This password is not affected by the System Settings password.
@@ -58,16 +60,3 @@ If the configuration is retrieved successfully, the gateway will restart the app
 {% hint style="info" %}
 After this operation, the **Save and Send Configuration** button will push the new configuration directly to the device.
 {% endhint %}
-
-
-
-
-
-
-
-
-
-
-
-
-
