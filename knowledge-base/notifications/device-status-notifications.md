@@ -34,7 +34,7 @@ Their meaning is reflected in the table below.
 
 The notifications are configured in a very similar way as the standard notifications on Modbus devices, with the possibility to configure the independent messages for SMS and email.
 
-![The trigger detais section is where messages are defined](<../../.gitbook/assets/image (69) (1) (1).png>)
+![The trigger detais section is where messages are defined](<../../.gitbook/assets/image (69) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 At this moment, the trigger timer has no effect on the device status notifications.

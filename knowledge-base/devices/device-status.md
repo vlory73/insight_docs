@@ -14,7 +14,7 @@ Any devices for which data has been received in the last 3 minutes are declared 
 
 Both communication and measurement devices will display an orange state when the last data received is older than 3 minutes.&#x20;
 
-![An orange status bar means that no data has been received from it in the last 3 minutes.](<../../.gitbook/assets/image (64) (1) (1).png>)
+![An orange status bar means that no data has been received from it in the last 3 minutes.](<../../.gitbook/assets/image (64) (1) (1) (1).png>)
 
 
 
@@ -26,7 +26,7 @@ The FX30 device will explicitly indicate an error of **No connection to the clou
 
 Additionally, the FX30 will also report if some of the Modbus devices are not communicating.
 
-![ ](<../../.gitbook/assets/image (69) (1) (1) (1).png>)
+![ ](<../../.gitbook/assets/image (69) (1) (1) (1) (1).png>)
 
 
 

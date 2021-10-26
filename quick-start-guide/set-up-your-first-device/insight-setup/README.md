@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page focus on the setup of the FX30 and controller devices on the Insight
-  portal.
+  This page focus on the setup of the gateway and controller devices on the
+  Insight portal.
 ---
 
 # Part 2: Insight setup
@@ -35,7 +35,7 @@ Choose the appropriate Equipment Type. For this example, we will choose **Genera
 
 ### Enter the Equipment details
 
-Once selected, the Equipment settings page will appear. 
+Once selected, the Equipment settings page will appear.&#x20;
 
 ![Creating a new Equipment](<../../../.gitbook/assets/image (21).png>)
 
@@ -56,5 +56,5 @@ For more information on their meaning and use, follow the link below.
 ## Adding devices
 
 Use the **Add new device** button to add a device to this equipment. \
-We will be adding 2 devices,  the AGC-4 MkII and the FX30 gateway. \
+We will be adding 2 devices, the AGC-4 MkII and a gateway.\
 After this, we will set the Equipment's location settings.

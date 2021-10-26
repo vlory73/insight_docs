@@ -1,6 +1,6 @@
 # eXware 703 setup
 
-## Connect the eXware 703 to PC
+## .Connect the eXware 703 to PC
 
 Connect an Ethernet network cable between the PC and ETH1 port on the eXware gateway&#x20;
 
@@ -20,9 +20,9 @@ It is safe to proceed despite the warnings from the browser.
 
 Click on the **Advanced **button to expand and follow the link provided.
 
-![You can safely proceed to the address by clicking the link.](<../../../.gitbook/assets/image (71).png>)
+![You can safely proceed to the address by clicking the link.](<../../../.gitbook/assets/image (71) (1).png>)
 
-Enter the user name and password
+Enter the user name and password.
 
 ![](<../../../.gitbook/assets/image (74).png>)
 
@@ -73,7 +73,7 @@ For example, the SSH service can be used for troubleshooting and VNC can be used
 
 Navigate to the **Services** page.
 
-![](<../../../.gitbook/assets/image (64).png>)
+![](<../../../.gitbook/assets/image (64) (1).png>)
 
 To enable or disable services, follow the steps:
 
@@ -83,11 +83,11 @@ To enable or disable services, follow the steps:
 
 * Press **Edit** on the top-right corner
 
-![](<../../../.gitbook/assets/image (73).png>)
+![](<../../../.gitbook/assets/image (73) (1).png>)
 
 * Change the settings, including the **Enabled **switch
 
-![](<../../../.gitbook/assets/image (69).png>)
+![](<../../../.gitbook/assets/image (69) (1).png>)
 
 * Finish by saving&#x20;
 

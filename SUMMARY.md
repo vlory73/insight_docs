@@ -23,6 +23,7 @@
       * [Add an FX30](quick-start-guide/set-up-your-first-device/insight-setup/add-the-gateway/add-devices/README.md)
         * [Equipment location options](quick-start-guide/set-up-your-first-device/insight-setup/add-the-gateway/add-devices/equipment-location-options.md)
       * [Add an eXware 703](quick-start-guide/set-up-your-first-device/insight-setup/add-a-gateway/add-an-exware-703.md)
+    * [Finishing](quick-start-guide/set-up-your-first-device/insight-setup/finishing.md)
 * [Create your first dashboard](quick-start-guide/creating-your-first-dashboard.md)
 * [Add Insight to Home Screen](quick-start-guide/add-insight-to-home-screen.md)
 
@@ -32,6 +33,7 @@
 * [Equipment](knowledge-base/equipment.md)
   * [Equipment status](knowledge-base/equipment/equipment-status.md)
 * [Devices](knowledge-base/devices/README.md)
+  * [Data logging](knowledge-base/devices/data-logging.md)
   * [Modbus tags](knowledge-base/modbus-tags.md)
   * [Device templates](knowledge-base/devices/device-templates.md)
   * [Device status](knowledge-base/devices/device-status.md)

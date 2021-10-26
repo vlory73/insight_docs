@@ -1,36 +1,28 @@
----
-cover: ../../../../.gitbook/assets/SeekPng.com_construction-png_231683.png
-coverY: -84.29955947136564
----
-
 # Add an eXware 703
 
 Upon pressing again on the button to **Add new device**, we will now head to the **New devices** tab and from there select **eX703**.
 
 ![](<../../../../.gitbook/assets/image (68) (1) (1).png>)
 
-~~Once on the FX30 device page, fill in the **Device detail** section and give the device a recognizable name. ~~\
-~~You can give it the same name as the Equipment or a variation of it, for example.~~
+Once on the eXware device page, fill in the **Device detail** section and give the device a recognizable, and preferably unique name. \
+You can give it the same name as the Equipment or a variation of it, for example.
 
-~~A version is mandatory, but this is not a critical field. Just set it to **1**, for now.~~
+A version is mandatory, but this is not a critical field. Just set it to **1**, for now.
 
 ![](<../../../../.gitbook/assets/image (32).png>)
 
-~~In the **Data Acquisition Unit Configuration** section, we are going to select the type of **FX30**.~~\
-~~The FX30S is used for Modbus RTU (RS-485).~~\
-~~Introduce the **IMEI** and **Serial Number** of the FX30.~~\
-~~These can be found in the Insight FX30 Configuration page, the FX30 kit box and the label on the device.~~
+In the **Data Acquisition Unit Configuration** section, introduce the **Serial Number** of the eXware 703.
+
+![](<../../../../.gitbook/assets/image (64).png>)
+
+\
+This can be found in the **System Settings / System** page, the eXware kit box and the label on the device.
 
 {% hint style="info" %}
-~~Pro Tip: If you kept Insight FX30 Configuration page open on your browser, simply copy and paste the **IMEI** and **Serial Number** from one page to the other.~~
+Pro Tip: If you kept the System Settings page open on your browser, simply copy and paste the **Serial Number** from one page to the other.
 {% endhint %}
 
-
-
-{% hint style="danger" %}
-~~Both IMEI and Serial Number must be correctly introduced or the system will not work.~~\
-~~Please note that only the IMEI has a validation algorithm for the input provided.~~
-{% endhint %}
+Leave the **Key Frame Interval** and **Device Status Notifications** setting with their default settings, for now.
 
 Press **Save and Send Configuration **and we will finish the setup in the next section.
 
@@ -41,20 +33,27 @@ In order to have the eXware ready for over-the-air (OTA) configuration, it is ne
 Ensure that the device is connected to the internet.
 
 {% hint style="warning" %}
-Advanced: SSH into the device and use **ping 8.8.8.8** or **ping google.com** to check for internet connection
+Advanced: SSH into the device and use **ping 8.8.8.8** or **ping google.com** to check for an internet connection.
 {% endhint %}
 
-Access the IP address of the device on a web browser.
+Access the IP address of the gateway on a web browser and log in.
 
-Type anything into the field
+&#x20;
 
-Submit the change
+{% hint style="info" %}
+This password is not affected by the System Settings password.
 
-If the configuration is retrieved successfully, the device will restart.
+* Username: admin
+* Password: admin
+{% endhint %}
+
+Type anything into the field and **Save** the change
+
+![](<../../../../.gitbook/assets/image (72).png>)
 
 
 
-
+If the configuration is retrieved successfully, the gateway will restart the application to take in the new configuration.
 
 {% hint style="info" %}
 After this operation, the **Save and Send Configuration** button will push the new configuration directly to the device.

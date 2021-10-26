@@ -12,7 +12,7 @@ CSD = 350mm/13.77” = Minimum Compass Safe Distance of standard compass
 
 ### Installation
 
-![](<../../../.gitbook/assets/image (71) (1).png>)
+![](<../../../.gitbook/assets/image (71) (1) (1).png>)
 
 The eXware is suitable for mounting on a DIN rail.
 
