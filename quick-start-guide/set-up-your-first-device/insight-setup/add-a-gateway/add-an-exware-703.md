@@ -1,8 +1,13 @@
+---
+cover: ../../../../.gitbook/assets/SeekPng.com_construction-png_231683.png
+coverY: -84.29955947136564
+---
+
 # Add an eXware 703
 
 Upon pressing again on the button to **Add new device**, we will now head to the **New devices** tab and from there select **eX703**.
 
-![](<../../../../.gitbook/assets/image (68) (1).png>)
+![](<../../../../.gitbook/assets/image (68) (1) (1).png>)
 
 ~~Once on the FX30 device page, fill in the **Device detail** section and give the device a recognizable name. ~~\
 ~~You can give it the same name as the Equipment or a variation of it, for example.~~

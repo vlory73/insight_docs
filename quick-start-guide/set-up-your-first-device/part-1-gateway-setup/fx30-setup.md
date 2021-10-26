@@ -54,18 +54,18 @@ Click on tab "SIM Configuration" and enter the APN settings.
 ![](<../../../.gitbook/assets/image (15).png>)
 
 {% hint style="warning" %}
-Don't forget to Save before leaving the page.
+Don't forget to **Save** before leaving the page.
 
-If you know the APN to be correct but cannot establish connection, check the notes about network interfaces on [PC requirements](../../windows-pc-preparation.md) or contact your operator.
+If you know the APN to be correct but cannot establish the connection, check the notes about network interfaces on [PC requirements](../../windows-pc-preparation.md) or contact your operator.
 {% endhint %}
 
-## End Part 1
-
-{% hint style="success" %}
-The FX30 should now be configured. \
-Proceed to [Part 2: Insight setup](../insight-setup/).
-{% endhint %}
+### Finishing up
 
 {% hint style="info" %}
 Hint: Keep the Insight FX30 Configuration page open in your browser as it will be handy during the next part.
+{% endhint %}
+
+{% hint style="success" %}
+The FX30 is now configured. \
+Proceed to [Part 2: Insight setup](../insight-setup/).
 {% endhint %}

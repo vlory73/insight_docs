@@ -17,7 +17,7 @@ Introduce the **IMEI** and **Serial Number** of the FX30.\
 These can be found in the Insight FX30 Configuration page, the FX30 kit box and the label on the device.
 
 {% hint style="info" %}
-Pro Tip: If you kept Insight FX30 Configuration page open on your browser, simply copy and paste the **IMEI** and **Serial Number** from one page to the other.
+Pro Tip: If you kept the Insight FX30 Configuration page open on your browser, simply copy and paste the **IMEI** and **Serial Number** from one page to the other.
 {% endhint %}
 
 Since we want to use the GNSS facilities of the FX30 to keep track of our Equipment, we will enable geo-location. When enabling the geo-location, a time interval for location reporting must be set.\
@@ -30,4 +30,4 @@ Both IMEI and Serial Number must be correctly introduced or the system will not 
 Please note that only the IMEI has a validation algorithm for the input provided.
 {% endhint %}
 
-Press **Save and Send Configuration **and we will finish the set up in the next page.
+Press **Save and Send Configuration **and we will finish the set-up on the next page.

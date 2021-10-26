@@ -14,25 +14,25 @@ Any devices for which data has been received in the last 3 minutes are declared 
 
 Both communication and measurement devices will display an orange state when the last data received is older than 3 minutes.&#x20;
 
-![An orange status bar means that no data has been received from it in the last 3 minutes.](<../../.gitbook/assets/image (64) (1).png>)
+![An orange status bar means that no data has been received from it in the last 3 minutes.](<../../.gitbook/assets/image (64) (1) (1).png>)
 
 
 
 The FX30 device will explicitly indicate an error of **No connection to the cloud** when the last payload receives is older than 3 minutes.
 
-![The FX30 device shows the message "No connection to cloud" as a complement to the orange status.](<../../.gitbook/assets/image (68) (1) (1).png>)
+![The FX30 device shows the message "No connection to cloud" as a complement to the orange status.](<../../.gitbook/assets/image (68) (1) (1) (1).png>)
 
 
 
 Additionally, the FX30 will also report if some of the Modbus devices are not communicating.
 
-![ ](<../../.gitbook/assets/image (69) (1) (1).png>)
+![ ](<../../.gitbook/assets/image (69) (1) (1) (1).png>)
 
 
 
 Finally, there is a third error message when the FX30 has not sent a heartbeat signal to its management service (AirVantage). This situation does not allow commands (configuration, geolocation and live mode) to be sent from Insight to the FX30.
 
-![This unit has not sent a heartbeat to AirVantage in the last 3 minutes. Status is orange because Insight received data from it.](<../../.gitbook/assets/image (67) (1).png>)
+![This unit has not sent a heartbeat to AirVantage in the last 3 minutes. Status is orange because Insight received data from it.](<../../.gitbook/assets/image (67) (1) (1).png>)
 
 
 
