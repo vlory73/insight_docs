@@ -1,6 +1,6 @@
 # eXware 703 setup
 
-## .Connect the eXware 703 to PC
+## Connect the eXware 703 to PC
 
 Connect an Ethernet network cable between the PC and ETH1 port on the eXware gateway&#x20;
 
@@ -18,7 +18,7 @@ This is because certificates are not present to guarantee an HTTPS connection.
 It is safe to proceed despite the warnings from the browser.
 {% endhint %}
 
-Click on the **Advanced **button to expand and follow the link provided.
+Click on the **Advanced** button to expand and follow the link provided.
 
 ![You can safely proceed to the address by clicking the link.](<../../../.gitbook/assets/image (71) (1).png>)
 
@@ -85,7 +85,7 @@ To enable or disable services, follow the steps:
 
 ![](<../../../.gitbook/assets/image (73) (1).png>)
 
-* Change the settings, including the **Enabled **switch
+* Change the settings, including the **Enabled** switch
 
 ![](<../../../.gitbook/assets/image (69) (1).png>)
 
