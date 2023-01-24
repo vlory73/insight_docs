@@ -6,11 +6,11 @@ Connect an Ethernet network cable (Cat6 or better) between the FX30 gateway and 
 
 ## FX30S Modbus RTU (Serial RS-485)
 
-![RS-485 Serial Interface pin-out ](<../../.gitbook/assets/image (47).png>)
+![RS-485 Serial Interface pin-out ](<../../.gitbook/assets/image (42).png>)
 
 ## eXware 703 network interfaces
 
-![](<../../.gitbook/assets/image (68) (2).png>)
+![](<../../.gitbook/assets/image (23).png>)
 
 Connect a network cable (Cat6 or better) between the eXware 703 and the controller.
 
@@ -22,7 +22,7 @@ Use the ETH1 port (3) to connect to the same network as the Modbus devices.
 
 
 
-![](<../../.gitbook/assets/image (66).png>)
+![](<../../.gitbook/assets/image (96).png>)
 
 |   |            |
 | - | ---------- |

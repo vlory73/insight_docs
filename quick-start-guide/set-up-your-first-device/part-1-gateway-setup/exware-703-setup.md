@@ -20,11 +20,11 @@ It is safe to proceed despite the warnings from the browser.
 
 Click on the **Advanced** button to expand and follow the link provided.
 
-![You can safely proceed to the address by clicking the link.](<../../../.gitbook/assets/image (71) (1).png>)
+![You can safely proceed to the address by clicking the link.](<../../../.gitbook/assets/image (62).png>)
 
 Enter the user name and password.
 
-![](<../../../.gitbook/assets/image (74).png>)
+![](<../../../.gitbook/assets/image (12).png>)
 
 {% hint style="info" %}
 #### Default user settings
@@ -41,7 +41,7 @@ Since the gateway will be permanently connected to the internet, it is very impo
 
 Upon entering the System Settings page, the landing page allows changing the language.
 
-![](<../../../.gitbook/assets/image (67).png>)
+![](<../../../.gitbook/assets/image (24).png>)
 
 {% hint style="danger" %}
 Use language change with care, in particular, if you are not fluent in the selected language.
@@ -73,25 +73,25 @@ For example, the SSH service can be used for troubleshooting and VNC can be used
 
 Navigate to the **Services** page.
 
-![](<../../../.gitbook/assets/image (64) (1).png>)
+![](<../../../.gitbook/assets/image (89).png>)
 
 To enable or disable services, follow the steps:
 
 * Select the service
 
-![](<../../../.gitbook/assets/image (68).png>)
+![](<../../../.gitbook/assets/image (93).png>)
 
 * Press **Edit** on the top-right corner
 
-![](<../../../.gitbook/assets/image (73) (1).png>)
+![](<../../../.gitbook/assets/image (81).png>)
 
 * Change the settings, including the **Enabled** switch
 
-![](<../../../.gitbook/assets/image (69) (1).png>)
+![](<../../../.gitbook/assets/image (28).png>)
 
 * Finish by saving&#x20;
 
-![](<../../../.gitbook/assets/image (70).png>)
+![](<../../../.gitbook/assets/image (46).png>)
 
 {% hint style="warning" %}
 Once the gateway is ready for deployment, it is highly recommended to disable the SSH and VNC services.

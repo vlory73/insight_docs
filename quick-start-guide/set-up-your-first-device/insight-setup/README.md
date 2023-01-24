@@ -13,7 +13,7 @@ You have received an invitation to join your company's Insight account and have 
 If you didn't receive an invitation, please contact the Insight admin of your company.
 
 {% hint style="warning" %}
-If you are the administrator and did not receive an invitation to join Insight, please contact DEIF Helpdesk Support  [https://helpdesk.deif.com/](https://helpdesk.deif.com).
+If you are the administrator and did not receive an invitation to join Insight, please contact DEIF Helpdesk Support  [https://helpdesk.deif.com/](https://helpdesk.deif.com/).
 {% endhint %}
 
 ## Set up the Equipment
@@ -23,21 +23,21 @@ Use your credentials to log in.
 
 ![When first logging in, Insight will feel very empty. Don't worry, we'll change that!](<../../../.gitbook/assets/image (18).png>)
 
-From the navigation menu, follow **Settings => Equipment. **
+From the navigation menu, follow **Settings => Equipment.**&#x20;
 
 Press the More (...) button and select **Add Equipment**.
 
-![Equipment and Groups (of Equipment) are managed in this page](<../../../.gitbook/assets/image (19).png>)
+![Equipment and Groups (of Equipment) are managed in this page](<../../../.gitbook/assets/image (8).png>)
 
 Choose the appropriate Equipment Type. For this example, we will choose **Generator**.
 
-![There are a variety of Equipment Types available for selection.](<../../../.gitbook/assets/image (20).png>)
+![There are a variety of Equipment Types available for selection.](<../../../.gitbook/assets/image (83).png>)
 
 ### Enter the Equipment details
 
 Once selected, the Equipment settings page will appear.&#x20;
 
-![Creating a new Equipment](<../../../.gitbook/assets/image (21).png>)
+![Creating a new Equipment](<../../../.gitbook/assets/image (20).png>)
 
 {% hint style="info" %}
 This page is always the same for any of the Equipment Types.\
@@ -49,8 +49,8 @@ Fill in the **Equipment Name**.
 All the remaining fields are optional.\
 For more information on their meaning and use, follow the link below.
 
-{% content-ref url="../../../knowledge-base/equipment.md" %}
-[equipment.md](../../../knowledge-base/equipment.md)
+{% content-ref url="../../../knowledge-base/equipment/" %}
+[equipment](../../../knowledge-base/equipment/)
 {% endcontent-ref %}
 
 ## Adding devices

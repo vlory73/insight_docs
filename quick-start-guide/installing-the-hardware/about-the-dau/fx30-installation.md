@@ -20,9 +20,9 @@ The following tools and materials are necessary to finish the installation and s
 To remove the SIM card, press to release the card and gently pull it out.
 {% endhint %}
 
- 
+&#x20;
 
-![Remove cover and insert SIM](<../../../.gitbook/assets/image (4).png>)
+![Remove cover and insert SIM](<../../../.gitbook/assets/image (71).png>)
 
 ## Connect antennas
 
@@ -39,7 +39,7 @@ The antenna supplied with the FX30 kits has both cellular and GNSS functions.
 For optimal results, mount the GNSS antenna in a place with good sky exposure.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (14).png>)
 
 ## Fusing
 

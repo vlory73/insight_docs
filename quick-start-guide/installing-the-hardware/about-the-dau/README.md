@@ -9,7 +9,7 @@ The FX30 provides online connectivity for the data streams and requires neither 
 * Sierra Wireless FX30 module
 * Power supply cable
 * FX30 Mounts
-* DIN rail adapter (2) 
+* DIN rail adapter (2)&#x20;
 * Cellular + GNSS antenna
 * Leaflet
 
@@ -28,7 +28,7 @@ The FX30 provides online connectivity for the data streams and requires neither 
 
 ## **Overview**
 
-![FX30 Modbus TCP gateway](<../../../.gitbook/assets/image (23).png>)
+![FX30 Modbus TCP gateway](<../../../.gitbook/assets/image (103).png>)
 
 1. Slot for SIM card
 2. GNSS antenna connection

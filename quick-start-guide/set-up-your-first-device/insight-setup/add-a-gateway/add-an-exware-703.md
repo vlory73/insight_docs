@@ -2,18 +2,18 @@
 
 Upon pressing again on the button to **Add new device**, we will now head to the **New devices** tab and from there select **eX703**.
 
-![](<../../../../.gitbook/assets/image (68) (1) (1).png>)
+![](<../../../../.gitbook/assets/image (48).png>)
 
 Once on the eXware device page, fill in the **Device detail** section and give the device a recognizable, and preferably unique name. \
 You can give it the same name as the Equipment or a variation of it, for example.
 
 A version is mandatory, but this is not a critical field. Just set it to **1**, for now.
 
-![](<../../../../.gitbook/assets/image (32).png>)
+![](<../../../../.gitbook/assets/image (97).png>)
 
 In the **Data Acquisition Unit Configuration** section, introduce the **Serial Number** of the eXware 703.
 
-![](<../../../../.gitbook/assets/image (64).png>)
+![](<../../../../.gitbook/assets/image (65).png>)
 
 \
 This can be found in the **System Settings / System** page, the eXware kit box and the label on the device.
@@ -24,7 +24,7 @@ Pro Tip: If you kept the System Settings page open on your browser, simply copy 
 
 Leave the **Key Frame Interval** and **Device Status Notifications** setting with their default settings, for now.
 
-Press **Save and Send Configuration **and we will finish the setup in the next section.
+Press **Save and Send Configuration** and we will finish the setup in the next section.
 
 ## Download configuration manually
 
@@ -40,7 +40,7 @@ Advanced: SSH into the device and use **ping 8.8.8.8** or **ping google.com** to
 
 Access the IP address of the gateway on a web browser and log in.
 
-&#x20;![](<../../../../.gitbook/assets/image (76).png>)
+&#x20;![](<../../../../.gitbook/assets/image (84).png>)
 
 {% hint style="info" %}
 This password is not affected by the System Settings password.
@@ -51,7 +51,7 @@ This password is not affected by the System Settings password.
 
 Type anything into the field and **Save** the change
 
-![](<../../../../.gitbook/assets/image (72).png>)
+![](<../../../../.gitbook/assets/image (99).png>)
 
 
 

@@ -17,14 +17,14 @@ description: >-
 
 Configuring the FX30 is a straightforward and easy task, requiring only to define network settings (on Modbus TCP) and operator's APN configuration.&#x20;
 
-![The web interface for the FX30 configuration](<../../../.gitbook/assets/image (17).png>)
+![The web interface for the FX30 configuration](<../../../.gitbook/assets/image (49).png>)
 
 ### Configure network settings &#x20;
 
 When using the FX30 Modbus TCP variant, it will be necessary to configure the network settings.\
 This is necessary so that the FX30 is in the same network as the device that will be connected to Insight.
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (57).png>)
 
 {% hint style="info" %}
 Save your changes.\
@@ -41,7 +41,7 @@ Check the APN settings with your operator before proceeding.&#x20;
 
 In some instances, the FX30 may automatically detect the APN, based on the operator.
 
-![](<../../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (54).png>)
 
 {% hint style="info" %}
 If the data session is already connected, skip the rest of this section.

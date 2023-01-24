@@ -10,7 +10,7 @@ Navigate to **Settings / Devices** and choose a communication device from the li
 
 Within the device's settings, there is a section to configure its status notifications.
 
-![The FX30 has three different device statuses available for notifications](<../../.gitbook/assets/image (65) (1).png>)
+![The FX30 has three different device statuses available for notifications](<../../.gitbook/assets/image (16).png>)
 
 {% hint style="info" %}
 &#x20;Device status notifications are set for the communication device as well as for all the Modbus devices connected to it.
@@ -34,7 +34,7 @@ Their meaning is reflected in the table below.
 
 The notifications are configured in a very similar way as the standard notifications on Modbus devices, with the possibility to configure the independent messages for SMS and email.
 
-![The trigger detais section is where messages are defined](<../../.gitbook/assets/image (69) (1) (1) (1).png>)
+![The trigger detais section is where messages are defined](<../../.gitbook/assets/image (2).png>)
 
 {% hint style="warning" %}
 At this moment, the trigger timer has no effect on the device status notifications.
@@ -46,7 +46,7 @@ Click on **Attach User** to open a selection window for all users.
 
 After adding a user, the icons on the right side allow the choice of the notification type.
 
-![Miki Starfall will receive SMS notifications for all the device status messages.](<../../.gitbook/assets/image (70) (1) (1).png>)
+![Miki Starfall will receive SMS notifications for all the device status messages.](<../../.gitbook/assets/image (55).png>)
 
 
 
